@@ -1,0 +1,11 @@
+2020-06-07 18:24:56,534 [main] INFO HealthGraph - *****Launching browser******
+2020-06-07 18:24:56,815 [main] INFO HealthGraph - *****Successfully Entered Username and Password******
+2020-06-07 18:24:58,282 [main] INFO HealthGraph - *****Logged in Successfully******
+2020-06-07 18:24:58,318 [main] INFO HealthGraph - *****User landed on OPD Home Page******
+2020-06-07 18:24:58,390 [main] INFO HealthGraph - *****Successfully log in as a recepionist to EHR******
+2020-06-07 18:25:08,624 [main] INFO HealthGraph - *****Add new patient pop up is opening after click of ADD button******
+2020-06-07 18:25:13,683 [main] INFO HealthGraph - *****Clicking on Add New Patient Button******
+2020-06-07 18:25:26,015 [main] INFO HealthGraph - *****The warning mesage is highlighting in RED color if user not filling the mandatory fields******
+2020-06-07 18:25:26,073 [main] INFO HealthGraph - *****Launching browser******
+2020-06-07 18:25:26,435 [main] INFO HealthGraph - *****User successfully enters First Name and Mobile No******
+2020-06-07 18:25:38,546 [main] INFO HealthGraph - *****User successfully created an Appointment by entering only mandatory field******
