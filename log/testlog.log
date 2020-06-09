@@ -1,11 +1,156 @@
-2020-06-07 18:24:56,534 - HealthGraph -INFO - *****Launching browser******
-2020-06-07 18:24:56,815 - HealthGraph -INFO - *****Successfully Entered Username and Password******
-2020-06-07 18:24:58,282 - HealthGraph -INFO - *****Logged in Successfully******
-2020-06-07 18:24:58,318 - HealthGraph -INFO - *****User landed on OPD Home Page******
-2020-06-07 18:24:58,390 - HealthGraph -INFO - *****Successfully log in as a recepionist to EHR******
-2020-06-07 18:25:08,624 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
-2020-06-07 18:25:13,683 - HealthGraph -INFO - *****Clicking on Add New Patient Button******
-2020-06-07 18:25:26,015 - HealthGraph -INFO - *****The warning mesage is highlighting in RED color if user not filling the mandatory fields******
-2020-06-07 18:25:26,073 - HealthGraph -INFO - *****Launching browser******
-2020-06-07 18:25:26,435 - HealthGraph -INFO - *****User successfully enters First Name and Mobile No******
-2020-06-07 18:25:38,546 - HealthGraph -INFO - *****User successfully created an Appointment by entering only mandatory field******
+2020-06-08 13:42:37,388 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 13:42:37,677 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 13:42:53,889 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 13:42:53,919 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 13:42:54,005 - HealthGraph -INFO - *****Successfully log in as a recepionist to EHR******
+2020-06-08 13:43:04,184 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
+2020-06-08 13:43:09,260 - HealthGraph -INFO - *****Clicking on Add New Patient Button******
+2020-06-08 13:43:19,952 - HealthGraph -INFO - *****The warning mesage is highlighting in RED color if user not filling the mandatory fields******
+2020-06-08 13:43:19,958 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 13:43:20,356 - HealthGraph -INFO - *****User successfully enters First Name and Mobile No******
+2020-06-08 13:43:27,494 - HealthGraph -INFO - *****User successfully created an Appointment by entering only mandatory field******
+2020-06-08 16:42:55,321 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 16:42:55,623 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 16:42:57,425 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 16:42:57,437 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 16:42:57,489 - HealthGraph -INFO - *****Successfully log in as a recepionist to EHR******
+2020-06-08 16:43:07,737 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
+2020-06-08 19:20:12,667 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 19:20:12,949 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 19:20:14,367 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 19:20:14,385 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 19:20:14,461 - HealthGraph -INFO - *****Successfully log in as a recepionist to EHR******
+2020-06-08 19:20:24,657 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
+2020-06-08 19:20:29,733 - HealthGraph -INFO - *****Clicking on Add New Patient Button******
+2020-06-08 21:11:35,116 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 21:11:35,474 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 21:11:41,330 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 21:11:41,340 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 21:11:41,412 - HealthGraph -INFO - *****Successfully log in as a recepionist to EHR******
+2020-06-08 21:11:51,602 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
+2020-06-08 21:11:56,660 - HealthGraph -INFO - *****Clicking on Add New Patient Button******
+2020-06-08 21:27:47,802 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 21:27:48,098 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 21:27:50,098 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 21:27:50,113 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 21:28:00,360 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
+2020-06-08 21:32:06,348 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 21:32:06,650 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 21:32:09,517 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 21:32:09,531 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 21:32:19,767 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
+2020-06-08 21:39:35,738 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 21:39:36,012 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 21:39:38,227 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 21:39:38,251 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 21:39:48,498 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
+2020-06-08 21:41:39,395 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 21:41:39,662 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 21:41:41,321 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 21:41:41,336 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 21:41:51,595 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
+2020-06-08 21:44:46,459 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 21:44:46,936 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 21:44:48,612 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 21:44:48,632 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 21:44:58,862 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
+2020-06-08 21:46:34,804 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 21:46:35,204 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 21:46:36,963 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 21:46:36,992 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 21:46:47,422 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
+2020-06-08 23:15:41,191 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 23:15:41,516 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 23:15:45,736 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 23:15:45,760 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 23:18:49,101 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 23:18:49,360 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 23:18:54,275 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 23:18:54,296 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 23:21:27,246 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 23:21:27,609 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 23:21:36,106 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 23:21:36,127 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 23:25:07,951 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 23:25:08,252 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 23:25:10,753 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 23:25:10,782 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 23:29:07,543 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 23:29:07,923 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 23:29:10,915 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 23:29:10,946 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 23:32:02,425 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 23:35:56,193 - HealthGraph -INFO - *****Launching browser******
+2020-06-08 23:35:56,503 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-08 23:35:59,285 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-08 23:35:59,308 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-08 23:36:09,713 - HealthGraph -INFO - *****Add new patient pop up is opening after click of ADD button******
+2020-06-09 07:59:21,423 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:00:22,332 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:00:22,753 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:00:24,470 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:00:24,481 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:02:08,665 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:02:08,953 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:02:10,305 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:02:10,317 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:08:35,216 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:08:35,474 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:08:37,465 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:08:37,479 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:13:47,430 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:13:47,722 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:13:49,324 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:13:49,335 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:20:36,394 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:20:36,689 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:20:38,006 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:20:38,019 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:22:00,553 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:22:00,854 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:22:02,084 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:22:02,098 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:28:35,204 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:28:35,487 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:28:36,925 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:28:36,937 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:36:29,054 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:36:29,322 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:36:31,031 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:36:31,054 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:40:39,843 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:40:40,181 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:40:43,114 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:40:43,134 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:42:46,378 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:42:46,615 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:42:48,336 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:42:48,376 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:50:06,179 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:50:06,457 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:50:08,589 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:50:08,606 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:51:21,253 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:51:21,627 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:51:23,730 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:51:23,749 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:55:32,133 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 08:55:32,380 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 08:55:33,874 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 08:55:33,908 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 08:55:36,027 - HealthGraph -INFO - *****The warning mesage is highlighting in RED color if user not filling the mandatory fields******
+2020-06-09 09:19:28,867 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 09:19:29,211 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 09:19:30,708 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 09:19:30,717 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 09:19:32,886 - HealthGraph -INFO - *****The warning mesage is highlighting in RED color if user not filling the mandatory fields******
+2020-06-09 09:23:52,884 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 09:23:53,158 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 09:23:55,038 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 09:23:55,051 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 09:23:57,164 - HealthGraph -INFO - *****The warning mesage is highlighting in RED color if user not filling the mandatory fields******
+2020-06-09 09:26:55,418 - HealthGraph -INFO - *****Launching browser******
+2020-06-09 09:26:55,710 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-09 09:26:57,212 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-09 09:26:57,222 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-09 09:26:59,243 - HealthGraph -INFO - *****The warning mesage is highlighting in RED color if user not filling the mandatory fields******

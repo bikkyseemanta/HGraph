@@ -1,12 +1,22 @@
 package pageObjects;
 
+import java.util.List;
+
+
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-public class AddPatientDetails 
+import com.cucumber.listener.Reporter;
+
+import commonMethod.Common_Methods;
+import junit.framework.Assert;
+
+public class AddPatientDetails extends Common_Methods
 {
  
 public WebDriver driver=null;
@@ -17,12 +27,84 @@ public WebDriver driver=null;
 		PageFactory.initElements(driver, this);
 	}
 	
+	
+    @FindBy(how = How.XPATH, using = "//h4[text()='Welcome']")
+    @CacheLookup
+    public WebElement welcomeMessage;
+
+    @FindBy(how = How.ID, using = "add-appointment-btn")
+    @CacheLookup
+    public WebElement addAppointmentButton;
+
+    @FindBy(how = How.XPATH, using = "//h4[text()='Search Patient or Add New Patient']")
+    @CacheLookup
+    public WebElement addNewPatientModalHeader;
+
+    @FindBy(how = How.XPATH, using = "//button[text()='Search']")
+    @CacheLookup
+    public WebElement searchButton;
+
+    @FindBy(how = How.XPATH, using = "//button[text()='Add New Patient']")
+    @CacheLookup
+    public WebElement addNewPatientButton;
+
+    @FindBy(how = How.ID, using = "search-patient")
+    @CacheLookup
+    public WebElement searchPatientInput;
+
+    @FindBy(how = How.ID, using = "patient_search")
+    @CacheLookup
+    public WebElement patientSearchDropdown;
+
+    @FindBy(how = How.XPATH, using = "//button[text()='Close']")
+    @CacheLookup
+    public WebElement closeButton;
+
+    @FindBy(how = How.XPATH, using = "//h4[text()='Patient Registration & Appointment Form']")
+    @CacheLookup
+    public WebElement patientRegistrationModalHeader;
+
+    @FindBy(how = How.XPATH, using = "//div[@id='patientWizard']//li[@role='presentation']/a")
+    @CacheLookup
+    public List<WebElement> patientWizardTabs;
+
+    @FindBy(how = How.XPATH, using = "//input[@value='Create Appointment']")
+    @CacheLookup
+    public WebElement creatAppointmentButton;
+
+    @FindBy(how = How.ID, using = "patient_firstname")
+    @CacheLookup
+    public WebElement firstNameInput;
+
+    @FindBy(how = How.ID, using = "patient_mobilenumber")
+    @CacheLookup
+    public WebElement mobileNumberInput;
+
+    @FindBy(how = How.XPATH, using = "//div[@id='appointment_my_queue_list']//b")
+    @CacheLookup
+    public List<WebElement> muQueueAppointmentListName;
+
+    @FindBy(how = How.XPATH, using = "//div[@id='patient-details']//div[text()='Full Name']/following-sibling::div/b")
+    @CacheLookup
+    public WebElement patientNameInAppointmentSummary;
+
+    @FindBy(how = How.LINK_TEXT, using = "Mark Patient Arrived")
+    @CacheLookup
+    public WebElement markPatientArrived;
+
+    @FindBy(how = How.XPATH, using = "//span[contains(text(),'Send To')]")
+    @CacheLookup
+    public WebElement sendToSection;
+	
+	
+	
 	@FindBy(xpath="(//*[@value='OPD']/span)[2]")
 	@CacheLookup
 	WebElement OPDtab;
 	
-	@FindBy(xpath="//*[@href='/patients/search?current_date=2020-06-07&modal=appointment-modal&url=%2Fappointments%2Fnew']")
+	@FindBy(xpath="//*[@class='glyphicon glyphicon-plus']")
 	@CacheLookup
+	public
 	WebElement ADDbtn;
 	
 	@FindBy(xpath="//*[text()='Add New Patient']")
@@ -88,16 +170,15 @@ public WebDriver driver=null;
 	WebElement DLNo;
 	
 	
-	
-	
-	
-	
-	
-	
-	
 	public void clickOPD_module(String uname)
 	{
 		OPDtab.click();
+	}
+	
+	public void clickAdd_btn()
+	{
+		expwait("//*[@class='glyphicon glyphicon-plus']");
+		clickElementByElement(ADDbtn);
 	}
 	
 	public void fillFirstName(String fname)
@@ -109,5 +190,36 @@ public WebDriver driver=null;
 	{
 		mobno.sendKeys(mobNo);
 	}
+	
+	public void validatepopuoheader()
+	{
+		String pophead=addpd.addNewPatientModalHeader.getText();
+		if(pophead.contains("Search Patient or Add New Patient"))
+		{
+			System.out.println("Pop up header is displaying correctly-->Pass");
+			Reporter.addStepLog("Pop up header is displaying correctly-->Pass");
+		}
+		else
+		{  
+			System.out.println("Pop up header is not displaying correctly-->Defect");
+			Reporter.addStepLog("Pop up header is not displaying correctly-->Defect");
+		}
+	}
+	
+	public void click_Add_New_Patient_btn()
+	{
+		expwait("//*[text()='Add New Patient']");
+		clickElementByElement(AddNewPatient);
+	}
+	
+	public void clickappointmentbtn()
+	{
+		expwait("//input[@value='Create Appointment']");
+		clickElementByElement(creatAppointmentButton);
+		expwait("//*[@class='glyphicon glyphicon-plus']");
+	}
+	
+	
+	
 }
 

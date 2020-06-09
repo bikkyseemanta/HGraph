@@ -29,6 +29,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 
+import pageObjects.AddPatientDetails;
 import pageObjects.LoginPage;
 
 public class Common_Methods {
@@ -38,13 +39,15 @@ public class Common_Methods {
 	public static Logger logger;
 	public Properties configProp;
 	public LoginPage lp=null;
+	public static WebDriverWait wait;
+	public AddPatientDetails addpd;
     
 	public static String randomstring() {
 		String generatedString1 = RandomStringUtils.randomAlphabetic(10);
 		return generatedString1;
 	}
 
-	public void captureScreen(WebDriver driver, String tname) throws IOException {
+	public static void captureScreen(WebDriver driver, String tname) throws IOException {
 		TakesScreenshot ts = (TakesScreenshot) driver;
 		File source = ts.getScreenshotAs(OutputType.FILE);
 		File target = new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png");
@@ -84,10 +87,34 @@ public class Common_Methods {
 		JavascriptExecutor js=(JavascriptExecutor)driver;    
 		js.executeScript("arguments[0].click();", element); 
 	}
+	
 	public static void normalWait(long seconds) throws Exception
 	{
 		Thread.sleep(seconds);
 	}
+	
+	
+    public static void Wait(WebDriver driver) {
+        wait = new WebDriverWait(driver, 30);
+    }
+
+    public static void waitForTextToBePresentInElement(WebElement element, String text){
+        wait.until(ExpectedConditions.textToBePresentInElement(element, text));
+        
+    }
+
+    public static void waitForElementToBeClickable(WebElement element) {
+        wait.until(ExpectedConditions.elementToBeClickable(element));
+    }
+
+    public static void waitForElementToBeInvisible(WebElement element) {
+        wait.until(ExpectedConditions.invisibilityOf(element));
+    }
+
+    public static void waitForElementToBeVisible(WebElement element) {
+        wait.until(ExpectedConditions.visibilityOf(element));
+    }
+	
 
 	public static void implicitlyWait(long time)
 	{
@@ -98,6 +125,13 @@ public class Common_Methods {
 	{
 		WebDriverWait wait = new WebDriverWait(driver, 50);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(Xpath)));
+	}
+	
+
+	public static void waitTillClick(String Xpath)
+	{
+		WebDriverWait wait = new WebDriverWait(driver, 10);
+		wait.until(ExpectedConditions.elementToBeClickable(By.xpath(Xpath)));
 	}
 
 	public static void waitTime()
@@ -118,11 +152,6 @@ public class Common_Methods {
 		driver.manage().deleteAllCookies();
 	}
 
-	public static void waitTillClick(String Xpath)
-	{
-		WebDriverWait wait = new WebDriverWait(driver, 10);
-		wait.until(ExpectedConditions.elementToBeClickable(By.xpath(Xpath)));
-	}
 
 	public static void selectValue(WebElement element, String value)
 	{
