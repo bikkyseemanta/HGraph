@@ -6,7 +6,7 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import commonMethod.Common_Methods;
+import utilities.Common_Methods;
 
 public class LoginPage 
 

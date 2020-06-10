@@ -22,118 +22,113 @@ formatter.scenarioOutline({
 });
 formatter.step({
   "line": 5,
-  "name": "open the browser and enter the URL \"https://ehr.healthgraph.in/users/login\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 6,
   "name": "user fills \"\u003cuname\u003e\" and \"\u003cpswd\u003e\"",
   "keyword": "When "
 });
 formatter.step({
-  "line": 7,
+  "line": 6,
   "name": "clicks on Login",
   "keyword": "And "
 });
 formatter.step({
-  "line": 8,
+  "line": 7,
   "name": "user can view dashboard",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 9,
+  "line": 8,
   "name": "click on Add button",
   "keyword": "And "
 });
 formatter.step({
-  "line": 10,
-  "name": "User should see a modal having the header",
+  "line": 9,
+  "name": "User should see a modal having the header \"Search Patient or Add New Patient\"",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 11,
+  "line": 10,
   "name": "Validate all the fields contains in add_new_patient modal",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 12,
+  "line": 11,
   "name": "click on Add New Patient button",
   "keyword": "Then "
 });
 formatter.step({
   "comments": [
     {
-      "line": 13,
+      "line": 12,
       "value": "#Then User should see a modal having the header \"Patient Registration \u0026 Appointment Form\""
     }
   ],
-  "line": 14,
+  "line": 13,
   "name": "Modal must have below mentioned tabs",
   "rows": [
     {
       "cells": [
         "Patient Details"
       ],
-      "line": 15
+      "line": 14
     },
     {
       "cells": [
         "Other Details"
       ],
-      "line": 16
+      "line": 15
     },
     {
       "cells": [
         "History"
       ],
-      "line": 17
+      "line": 16
     },
     {
       "cells": [
         "Allergies"
       ],
-      "line": 18
+      "line": 17
     }
   ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 19,
+  "line": 18,
   "name": "user without filling mandatory field and click on Appointment button",
   "keyword": "When "
 });
 formatter.step({
-  "line": 20,
+  "line": 19,
   "name": "validate warning message should display",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 21,
+  "line": 20,
   "name": "user fill mandatory fields \"\u003cfname\u003e\" \"\u003cmobNo\u003e\"",
   "keyword": "When "
 });
 formatter.step({
-  "line": 22,
+  "line": 21,
   "name": "user can create Appointment",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 23,
+  "line": 22,
   "name": "click on Add button",
   "keyword": "And "
 });
 formatter.step({
-  "line": 24,
+  "line": 23,
   "name": "click on Add New Patient button",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 25,
+  "line": 24,
   "name": "fill patient details  \"\u003cfirstname1\u003e\" \"\u003cmobno1\u003e\" \"\u003cmiddlename\u003e\" \"\u003clastname\u003e\" \"\u003csecondaryno\u003e\" \"\u003cemail\u003e\" \"\u003clanguage\u003e\" \"\u003csecondarylanguage\u003e\" \"\u003cpincode\u003e\" \"\u003cAdd1\u003e\" \"\u003cAdd2\u003e\" \"\u003cMedicalRepoNo\u003e\" \"\u003cAadhaar\u003e\" \"\u003cPANno\u003e\" \"\u003cDLno\u003e\"",
   "keyword": "Then "
 });
 formatter.examples({
-  "line": 27,
+  "line": 26,
   "name": "",
   "description": "",
   "id": "create-appointment-for-opd;create-appointment-for-opd-by-adding-new-patient;",
@@ -185,7 +180,7 @@ formatter.examples({
         "EmergencyName",
         "EmergencyContact"
       ],
-      "line": 28,
+      "line": 27,
       "id": "create-appointment-for-opd;create-appointment-for-opd-by-adding-new-patient;;1"
     },
     {
@@ -235,14 +230,18 @@ formatter.examples({
         "AutTest",
         "AutoTest"
       ],
-      "line": 29,
+      "line": 28,
       "id": "create-appointment-for-opd;create-appointment-for-opd-by-adding-new-patient;;2"
     }
   ],
   "keyword": "Examples"
 });
+formatter.before({
+  "duration": 34222539500,
+  "status": "passed"
+});
 formatter.scenario({
-  "line": 29,
+  "line": 28,
   "name": "Create Appointment for OPD by adding New Patient",
   "description": "",
   "id": "create-appointment-for-opd;create-appointment-for-opd-by-adding-new-patient;;2",
@@ -257,11 +256,6 @@ formatter.scenario({
 });
 formatter.step({
   "line": 5,
-  "name": "open the browser and enter the URL \"https://ehr.healthgraph.in/users/login\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 6,
   "name": "user fills \"hgdummyrec\" and \"HGraph@2$2$\"",
   "matchedColumns": [
     0,
@@ -270,84 +264,84 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 7,
+  "line": 6,
   "name": "clicks on Login",
   "keyword": "And "
 });
 formatter.step({
-  "line": 8,
+  "line": 7,
   "name": "user can view dashboard",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 9,
+  "line": 8,
   "name": "click on Add button",
   "keyword": "And "
 });
 formatter.step({
-  "line": 10,
-  "name": "User should see a modal having the header",
+  "line": 9,
+  "name": "User should see a modal having the header \"Search Patient or Add New Patient\"",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 11,
+  "line": 10,
   "name": "Validate all the fields contains in add_new_patient modal",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 12,
+  "line": 11,
   "name": "click on Add New Patient button",
   "keyword": "Then "
 });
 formatter.step({
   "comments": [
     {
-      "line": 13,
+      "line": 12,
       "value": "#Then User should see a modal having the header \"Patient Registration \u0026 Appointment Form\""
     }
   ],
-  "line": 14,
+  "line": 13,
   "name": "Modal must have below mentioned tabs",
   "rows": [
     {
       "cells": [
         "Patient Details"
       ],
-      "line": 15
+      "line": 14
     },
     {
       "cells": [
         "Other Details"
       ],
-      "line": 16
+      "line": 15
     },
     {
       "cells": [
         "History"
       ],
-      "line": 17
+      "line": 16
     },
     {
       "cells": [
         "Allergies"
       ],
-      "line": 18
+      "line": 17
     }
   ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 19,
+  "line": 18,
   "name": "user without filling mandatory field and click on Appointment button",
   "keyword": "When "
 });
 formatter.step({
-  "line": 20,
+  "line": 19,
   "name": "validate warning message should display",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 21,
+  "line": 20,
   "name": "user fill mandatory fields \"Bikky\" \"4678907665\"",
   "matchedColumns": [
     2,
@@ -356,22 +350,22 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 22,
+  "line": 21,
   "name": "user can create Appointment",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 23,
+  "line": 22,
   "name": "click on Add button",
   "keyword": "And "
 });
 formatter.step({
-  "line": 24,
+  "line": 23,
   "name": "click on Add New Patient button",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 25,
+  "line": 24,
   "name": "fill patient details  \"Selenium\" \"9861929608\" \"Automation\" \"Test\" \"7751996482\" \"bswjttripathy@gmail.com\" \"Hindi\" \"English\" \"5600\" \"keruna\" \"chatrapada\" \"MRN1\" \"30965893118\" \"ANMPT2557J\" \"OR68310567\"",
   "matchedColumns": [
     4,
@@ -395,19 +389,6 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "https://ehr.healthgraph.in/users/login",
-      "offset": 36
-    }
-  ],
-  "location": "Steps.open_the_browser_and_enter_the_URL(String)"
-});
-formatter.result({
-  "duration": 10535642400,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
       "val": "hgdummyrec",
       "offset": 12
     },
@@ -419,70 +400,76 @@ formatter.match({
   "location": "Steps.user_fills_and(String,String)"
 });
 formatter.result({
-  "duration": 278436600,
+  "duration": 579293500,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.clicks_on_Login()"
 });
 formatter.result({
-  "duration": 1498388600,
+  "duration": 2700843000,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_can_view_dashboard()"
 });
 formatter.result({
-  "duration": 10873300,
+  "duration": 11402900,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Add_button()"
 });
 formatter.result({
-  "duration": 133556500,
+  "duration": 129830300,
   "status": "passed"
 });
 formatter.match({
-  "location": "Steps.user_should_see_a_modal_having_the_header()"
+  "arguments": [
+    {
+      "val": "Search Patient or Add New Patient",
+      "offset": 43
+    }
+  ],
+  "location": "Steps.user_should_see_a_modal_having_the_header(String)"
 });
 formatter.result({
-  "duration": 13800,
+  "duration": 1227411200,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.validate_all_the_fields_contains_in_add_new_patient_modal()"
 });
 formatter.result({
-  "duration": 45100,
+  "duration": 23200,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Add_New_Patient_button()"
 });
 formatter.result({
-  "duration": 629019100,
+  "duration": 91027900,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.modal_must_have_below_mentioned_tabs(DataTable)"
 });
 formatter.result({
-  "duration": 30136200,
+  "duration": 24419800,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_without_filling_mandatory_field_and_click_on_Appointment_button()"
 });
 formatter.result({
-  "duration": 1180450800,
+  "duration": 2704953400,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.validate_warning_message_should_display()"
 });
 formatter.result({
-  "duration": 34557400,
+  "duration": 41795600,
   "status": "passed"
 });
 formatter.match({
@@ -499,29 +486,29 @@ formatter.match({
   "location": "Steps.user_fill_mandatory_fields(String,String)"
 });
 formatter.result({
-  "duration": 331262400,
+  "duration": 437825000,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_can_create_Appointment()"
 });
 formatter.result({
-  "duration": 137721000,
+  "duration": 239463400,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Add_button()"
 });
 formatter.result({
-  "duration": 301935500,
+  "duration": 222987600,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Add_New_Patient_button()"
 });
 formatter.result({
-  "duration": 50559702600,
-  "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()\u003d\u0027Add New Patient\u0027] (tried for 50 second(s) with 500 milliseconds interval)\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\r\n\tat commonMethod.Common_Methods.expwait(Common_Methods.java:127)\r\n\tat pageObjects.AddPatientDetails.click_Add_New_Patient_btn(AddPatientDetails.java:211)\r\n\tat stepDefinations.Steps.click_on_Add_New_Patient_button(Steps.java:81)\r\n\tat ✽.Then click on Add New Patient button(./Features/Add_Patient_For_OPD.feature:24)\r\nCaused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[text()\u003d\u0027Add New Patient\u0027]\"}\n  (Session info: chrome\u003d83.0.4103.61)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027VICKYPC\u0027, ip: \u0027192.168.1.104\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027x86\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_251\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\lenovo\\AppData\\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63413}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8452f6fe7d5f137e47e8915b308b8c8e\n*** Element info: {Using\u003dxpath, value\u003d//*[text()\u003d\u0027Add New Patient\u0027]}\r\n\tat sun.reflect.GeneratedConstructorAccessor14.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)\r\n\tat commonMethod.Common_Methods.expwait(Common_Methods.java:127)\r\n\tat pageObjects.AddPatientDetails.click_Add_New_Patient_btn(AddPatientDetails.java:211)\r\n\tat stepDefinations.Steps.click_on_Add_New_Patient_button(Steps.java:81)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)\r\n\tat cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)\r\n\tat cucumber.runtime.Runtime.runStep(Runtime.java:300)\r\n\tat cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)\r\n\tat cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)\r\n",
+  "duration": 12362656800,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d83.0.4103.97)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027VICKYPC\u0027, ip: \u0027192.168.1.104\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027x86\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_251\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\lenovo\\AppData\\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50177}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a938f174308e7424dd1b0e45153e2439\n*** Element info: {Using\u003dxpath, value\u003d//*[text()\u003d\u0027Add New Patient\u0027]}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)\r\n\tat utilities.Common_Methods.expwait(Common_Methods.java:134)\r\n\tat pageObjects.AddPatientDetails.click_Add_New_Patient_btn(AddPatientDetails.java:207)\r\n\tat stepDefinations.Steps.click_on_Add_New_Patient_button(Steps.java:87)\r\n\tat ✽.Then click on Add New Patient button(./Features/Add_Patient_For_OPD.feature:23)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -591,5 +578,10 @@ formatter.match({
 });
 formatter.result({
   "status": "skipped"
+});
+formatter.after({
+  "duration": 214708000,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d83.0.4103.97)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027VICKYPC\u0027, ip: \u0027192.168.1.104\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027x86\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_251\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\lenovo\\AppData\\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50177}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a938f174308e7424dd1b0e45153e2439\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:442)\r\n\tat stepDefinations.Hook.closeEGRApplication(Hook.java:17)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)\r\n",
+  "status": "failed"
 });
 });

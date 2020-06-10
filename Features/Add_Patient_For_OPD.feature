@@ -2,12 +2,11 @@ Feature: Create Appointment for OPD
 
 @PatientDetails
 Scenario Outline: Create Appointment for OPD by adding New Patient
-Given open the browser and enter the URL "https://ehr.healthgraph.in/users/login"
 When user fills "<uname>" and "<pswd>"
 And clicks on Login 
 Then user can view dashboard
 And click on Add button
-Then User should see a modal having the header
+Then User should see a modal having the header "Search Patient or Add New Patient"
 Then Validate all the fields contains in add_new_patient modal
 Then click on Add New Patient button
 #Then User should see a modal having the header "Patient Registration & Appointment Form"
