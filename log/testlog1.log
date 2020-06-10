@@ -9,3 +9,14 @@
 2020-06-10 19:38:37,761 [main] INFO HealthGraph - *****User entered mandatory fields such as First name and Mob no******
 2020-06-10 19:38:38,003 [main] INFO HealthGraph - *****User successfully created one appointment by entering mandatory fields******
 2020-06-10 19:38:38,227 [main] INFO HealthGraph - *****click on Add button******
+2020-06-10 21:55:54,617 [main] INFO HealthGraph - *****Successfully Entered Username and Password******
+2020-06-10 21:55:56,185 [main] INFO HealthGraph - *****Logged in Successfully******
+2020-06-10 21:55:56,202 [main] INFO HealthGraph - *****User landed on OPD Home Page******
+2020-06-10 21:55:56,451 [main] INFO HealthGraph - *****click on Add button******
+2020-06-10 21:55:57,157 [main] INFO HealthGraph - *****click on Add New Patient button******
+2020-06-10 21:55:57,185 [main] INFO HealthGraph - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-10 21:55:58,133 [main] INFO HealthGraph - *****Without filling mandatory field clicking on Appointment button******
+2020-06-10 21:55:58,173 [main] INFO HealthGraph - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-10 21:55:58,722 [main] INFO HealthGraph - *****User entered mandatory fields such as First name and Mob no******
+2020-06-10 21:55:58,944 [main] INFO HealthGraph - *****User successfully created one appointment by entering mandatory fields******
+2020-06-10 21:55:59,140 [main] INFO HealthGraph - *****click on Add button******

@@ -26,10 +26,10 @@ public class Steps
 	public WebDriver driver;
 	public LoginPage lp;
 	public AddPatientDetails addpd;
-	
+
 
 	public Steps() {
-		
+
 		driver =  WebConnector.driver;
 		commonMethods = new Common_Methods(driver);
 		lp = new LoginPage(driver);
@@ -52,14 +52,14 @@ public class Steps
 	public void clicks_on_Login() throws Throwable 
 	{
 		lp.clickloginbtn();
-	    Common_Methods.logger.info("*****Logged in Successfully******");
+		Common_Methods.logger.info("*****Logged in Successfully******");
 	}
 
 	@Then("^user can view dashboard$")
 	public void user_can_view_dashboard() throws Throwable 
 	{
 		Assert.assertEquals("Foss - EHR", lp.getPageTitle());
-	    Common_Methods.logger.info("*****User landed on OPD Home Page******");
+		Common_Methods.logger.info("*****User landed on OPD Home Page******");
 	}
 
 
@@ -85,7 +85,7 @@ public class Steps
 	public void click_on_Add_New_Patient_button() throws Throwable
 	{
 		addpd.click_Add_New_Patient_btn();
-	    Common_Methods.logger.info("*****click on Add New Patient button******");
+		Common_Methods.logger.info("*****click on Add New Patient button******");
 	}
 
 	@Then("^Modal must have below mentioned tabs$")
@@ -96,14 +96,14 @@ public class Steps
 			Assert.assertEquals(element.getText(), listData.get(index));
 			index++;
 		}
-	    Common_Methods.logger.info("*****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******"); 
+		Common_Methods.logger.info("*****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******"); 
 	}
 
 	@When("^user without filling mandatory field and click on Appointment button$")
 	public void user_without_filling_mandatory_field_and_click_on_Appointment_button() throws Throwable 
 	{
 		addpd.clickappointmentbtn();
-	    Common_Methods.logger.info("*****Without filling mandatory field clicking on Appointment button******");
+		Common_Methods.logger.info("*****Without filling mandatory field clicking on Appointment button******");
 	}
 
 	@Then("^validate warning message should display$")
@@ -113,12 +113,12 @@ public class Steps
 		if(warnmsgclor.contains("rgba(51, 51, 51, 1)"))
 		{
 			Reporter.addStepLog("The warning message is highlighting in RED color if user not filling the mandatory fields-->SUCCESS");
-		    Common_Methods.logger.info("*****The warning message is highlighting in RED color if user not filling the mandatory fields******");
+			Common_Methods.logger.info("*****The warning message is highlighting in RED color if user not filling the mandatory fields******");
 		}
 		else
 		{
 			Reporter.addStepLog("The warning message is not showing in RED color if user not filling the mandatory fields-->DEFECT");
-			 Common_Methods.logger.info("*****The warning mesage is not showing in RED color if user not filling the mandatory fields******");
+			Common_Methods.logger.info("*****The warning mesage is not showing in RED color if user not filling the mandatory fields******");
 		}
 	}
 
@@ -127,7 +127,7 @@ public class Steps
 	{
 		addpd.fillFirstName(arg1);
 		addpd.fillMobNo(arg2);
-		 Common_Methods.logger.info("*****User entered mandatory fields such as First name and Mob no******"); 
+		Common_Methods.logger.info("*****User entered mandatory fields such as First name and Mob no******"); 
 	}
 
 	@Then("^user can create Appointment$")
@@ -135,7 +135,7 @@ public class Steps
 	{
 
 		addpd.clickappointmentbtn();
-		 Common_Methods.logger.info("*****User successfully created one appointment by entering mandatory fields******"); 	
+		Common_Methods.logger.info("*****User successfully created one appointment by entering mandatory fields******"); 	
 	}
 
 	@Then("^fill patient details  \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\"$")

@@ -16,7 +16,7 @@ import utilities.Common_Methods;
 public class AddPatientDetails
 {
 
-
+//Testing this
 	public WebDriver driver;
 	public Common_Methods commonMethod;
 

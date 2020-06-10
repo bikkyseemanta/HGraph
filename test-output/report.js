@@ -237,7 +237,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 34222539500,
+  "duration": 9599996000,
   "status": "passed"
 });
 formatter.scenario({
@@ -400,28 +400,28 @@ formatter.match({
   "location": "Steps.user_fills_and(String,String)"
 });
 formatter.result({
-  "duration": 579293500,
+  "duration": 633530400,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.clicks_on_Login()"
 });
 formatter.result({
-  "duration": 2700843000,
+  "duration": 1515972300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_can_view_dashboard()"
 });
 formatter.result({
-  "duration": 11402900,
+  "duration": 12330000,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Add_button()"
 });
 formatter.result({
-  "duration": 129830300,
+  "duration": 248196300,
   "status": "passed"
 });
 formatter.match({
@@ -434,42 +434,42 @@ formatter.match({
   "location": "Steps.user_should_see_a_modal_having_the_header(String)"
 });
 formatter.result({
-  "duration": 1227411200,
+  "duration": 613781300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.validate_all_the_fields_contains_in_add_new_patient_modal()"
 });
 formatter.result({
-  "duration": 23200,
+  "duration": 20700,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Add_New_Patient_button()"
 });
 formatter.result({
-  "duration": 91027900,
+  "duration": 86361800,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.modal_must_have_below_mentioned_tabs(DataTable)"
 });
 formatter.result({
-  "duration": 24419800,
+  "duration": 25821700,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_without_filling_mandatory_field_and_click_on_Appointment_button()"
 });
 formatter.result({
-  "duration": 2704953400,
+  "duration": 946470600,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.validate_warning_message_should_display()"
 });
 formatter.result({
-  "duration": 41795600,
+  "duration": 38360900,
   "status": "passed"
 });
 formatter.match({
@@ -486,102 +486,23 @@ formatter.match({
   "location": "Steps.user_fill_mandatory_fields(String,String)"
 });
 formatter.result({
-  "duration": 437825000,
+  "duration": 548172500,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_can_create_Appointment()"
 });
 formatter.result({
-  "duration": 239463400,
+  "duration": 218915700,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Add_button()"
 });
 formatter.result({
-  "duration": 222987600,
+  "duration": 194388000,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Add_New_Patient_button()"
-});
-formatter.result({
-  "duration": 12362656800,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d83.0.4103.97)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027VICKYPC\u0027, ip: \u0027192.168.1.104\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027x86\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_251\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\lenovo\\AppData\\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50177}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a938f174308e7424dd1b0e45153e2439\n*** Element info: {Using\u003dxpath, value\u003d//*[text()\u003d\u0027Add New Patient\u0027]}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)\r\n\tat utilities.Common_Methods.expwait(Common_Methods.java:134)\r\n\tat pageObjects.AddPatientDetails.click_Add_New_Patient_btn(AddPatientDetails.java:207)\r\n\tat stepDefinations.Steps.click_on_Add_New_Patient_button(Steps.java:87)\r\n\tat ✽.Then click on Add New Patient button(./Features/Add_Patient_For_OPD.feature:23)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Selenium",
-      "offset": 23
-    },
-    {
-      "val": "9861929608",
-      "offset": 34
-    },
-    {
-      "val": "Automation",
-      "offset": 47
-    },
-    {
-      "val": "Test",
-      "offset": 60
-    },
-    {
-      "val": "7751996482",
-      "offset": 67
-    },
-    {
-      "val": "bswjttripathy@gmail.com",
-      "offset": 80
-    },
-    {
-      "val": "Hindi",
-      "offset": 106
-    },
-    {
-      "val": "English",
-      "offset": 114
-    },
-    {
-      "val": "5600",
-      "offset": 124
-    },
-    {
-      "val": "keruna",
-      "offset": 131
-    },
-    {
-      "val": "chatrapada",
-      "offset": 140
-    },
-    {
-      "val": "MRN1",
-      "offset": 153
-    },
-    {
-      "val": "30965893118",
-      "offset": 160
-    },
-    {
-      "val": "ANMPT2557J",
-      "offset": 174
-    },
-    {
-      "val": "OR68310567",
-      "offset": 187
-    }
-  ],
-  "location": "Steps.fill_patient_details(String,String,String,String,String,String,String,String,String,String,String,String,String,String,String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.after({
-  "duration": 214708000,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d83.0.4103.97)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027VICKYPC\u0027, ip: \u0027192.168.1.104\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027x86\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_251\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\lenovo\\AppData\\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50177}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a938f174308e7424dd1b0e45153e2439\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:442)\r\n\tat stepDefinations.Hook.closeEGRApplication(Hook.java:17)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)\r\n",
-  "status": "failed"
-});
 });
