@@ -44,7 +44,8 @@ public class Steps
 
 		lp.fillusername(uname);
 		lp.fillpassword(pswd);
-		Common_Methods.logger.info("*****Successfully Entered Username and Password******");
+		commonMethods.logger.info("*****Successfully Entered Username and Password******");
+		
 	}
 
 
@@ -52,22 +53,25 @@ public class Steps
 	public void clicks_on_Login() throws Throwable 
 	{
 		lp.clickloginbtn();
-		Common_Methods.logger.info("*****Logged in Successfully******");
+		commonMethods.logger.info("*****Logged in Successfully******");
+		
 	}
 
 	@Then("^user can view dashboard$")
 	public void user_can_view_dashboard() throws Throwable 
 	{
 		Assert.assertEquals("Foss - EHR", lp.getPageTitle());
-		Common_Methods.logger.info("*****User landed on OPD Home Page******");
+		commonMethods.logger.info("*****User landed on OPD Home Page******");
 	}
 
 
 	//Add New Patients------------------------------------------------------------------------------------------------------------------
 	@Then("^click on Add button$")
 	public void click_on_Add_button() throws Throwable {
+		commonMethods.expwait("//*[@class='glyphicon glyphicon-plus']");
 		addpd.clickAdd_btn();
-		Common_Methods.logger.info("*****click on Add button******");
+		commonMethods.logger.info("*****click on Add button******");
+		commonMethods.normalWait(3000);
 	}
 
 	@Then("^User should see a modal having the header \"([^\"]*)\"$")
@@ -77,15 +81,26 @@ public class Steps
 	}
 
 	@Then("^Validate all the fields contains in add_new_patient modal$")
-	public void validate_all_the_fields_contains_in_add_new_patient_modal() throws Throwable {
-
+	public void validate_all_the_fields_contains_in_add_new_patient_modal() throws Throwable
+	{
+		    Assert.assertEquals(addpd.searchButton.isDisplayed(), true);
+	        Assert.assertEquals(addpd.searchButton.isEnabled(), false);
+	        Assert.assertEquals(addpd.searchButton.getCssValue("background-color"), "rgba(92, 184, 92, 1)");
+	        Assert.assertEquals(addpd.addNewPatientButton.isDisplayed(), true);
+	        Assert.assertEquals(addpd.addNewPatientButton.isEnabled(), true);
+	        Assert.assertEquals(addpd.addNewPatientButton.getCssValue("background-color"), "rgba(91, 192, 222, 1)");
+	        Assert.assertEquals(addpd.searchPatientInput.isDisplayed(), true);
+	        Assert.assertEquals(addpd.searchPatientInput.getAttribute("placeholder"), "Type Atleast 5 Characters");
+	        Assert.assertEquals(addpd.patientSearchDropdown.isDisplayed(), true);
+	        Assert.assertEquals(addpd.closeButton.isDisplayed(), true);
 	}
 
 	@Then("^click on Add New Patient button$")
 	public void click_on_Add_New_Patient_button() throws Throwable
 	{
+		commonMethods.waitTillClick("//*[text()='Add New Patient']");
 		addpd.click_Add_New_Patient_btn();
-		Common_Methods.logger.info("*****click on Add New Patient button******");
+		commonMethods.logger.info("*****click on Add New Patient button******");
 	}
 
 	@Then("^Modal must have below mentioned tabs$")
@@ -96,14 +111,14 @@ public class Steps
 			Assert.assertEquals(element.getText(), listData.get(index));
 			index++;
 		}
-		Common_Methods.logger.info("*****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******"); 
+		commonMethods.logger.info("*****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******"); 
 	}
 
 	@When("^user without filling mandatory field and click on Appointment button$")
 	public void user_without_filling_mandatory_field_and_click_on_Appointment_button() throws Throwable 
 	{
 		addpd.clickappointmentbtn();
-		Common_Methods.logger.info("*****Without filling mandatory field clicking on Appointment button******");
+		commonMethods.logger.info("*****Without filling mandatory field clicking on Appointment button******");
 	}
 
 	@Then("^validate warning message should display$")
@@ -118,7 +133,7 @@ public class Steps
 		else
 		{
 			Reporter.addStepLog("The warning message is not showing in RED color if user not filling the mandatory fields-->DEFECT");
-			Common_Methods.logger.info("*****The warning mesage is not showing in RED color if user not filling the mandatory fields******");
+			commonMethods.logger.info("*****The warning mesage is not showing in RED color if user not filling the mandatory fields******");
 		}
 	}
 
@@ -127,7 +142,7 @@ public class Steps
 	{
 		addpd.fillFirstName(arg1);
 		addpd.fillMobNo(arg2);
-		Common_Methods.logger.info("*****User entered mandatory fields such as First name and Mob no******"); 
+		commonMethods.logger.info("*****User entered mandatory fields such as First name and Mob no******"); 
 	}
 
 	@Then("^user can create Appointment$")
@@ -135,7 +150,9 @@ public class Steps
 	{
 
 		addpd.clickappointmentbtn();
-		Common_Methods.logger.info("*****User successfully created one appointment by entering mandatory fields******"); 	
+		commonMethods.logger.info("*****User successfully created one appointment by entering mandatory fields******"); 	
+		
+		
 	}
 
 	@Then("^fill patient details  \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\"$")

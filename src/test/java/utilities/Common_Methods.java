@@ -110,7 +110,7 @@ public class Common_Methods {
         
     }
 
-    public void waitForElementToBeClickable(WebElement element) {
+    public  void waitForElementToBeClickable(WebElement element) {
         wait.until(ExpectedConditions.elementToBeClickable(element));
     }
 
