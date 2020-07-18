@@ -146,3 +146,421 @@
 2020-06-12 00:58:54,165 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
 2020-06-12 00:58:54,432 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
 2020-06-12 00:58:54,689 - HealthGraph -INFO - *****click on Add button******
+2020-06-12 12:11:41,626 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-12 12:11:52,025 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-12 12:11:52,045 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-12 12:11:52,171 - HealthGraph -INFO - *****click on Add button******
+2020-06-12 12:13:03,740 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-12 12:13:06,795 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-12 12:13:06,811 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-12 12:13:06,929 - HealthGraph -INFO - *****click on Add button******
+2020-06-12 12:13:10,346 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-12 12:13:10,376 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-12 12:13:12,075 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-12 12:13:12,104 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-12 12:13:12,431 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-12 12:13:12,569 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-12 12:13:12,716 - HealthGraph -INFO - *****click on Add button******
+2020-06-15 15:51:17,641 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-15 15:51:19,379 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-15 15:51:19,393 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-15 15:51:19,558 - HealthGraph -INFO - *****click on Add button******
+2020-06-15 15:51:23,436 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-15 15:51:23,511 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-15 15:51:24,548 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-15 15:51:24,608 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-15 15:51:24,934 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-15 15:51:25,137 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-15 15:51:25,384 - HealthGraph -INFO - *****click on Add button******
+2020-06-15 16:16:13,759 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-15 16:16:15,314 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-15 16:16:15,342 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-15 16:16:15,619 - HealthGraph -INFO - *****click on Add button******
+2020-06-15 16:16:19,403 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-15 16:16:19,457 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-15 16:16:20,528 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-15 16:16:20,570 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-15 16:16:20,895 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-15 16:16:21,055 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-15 16:27:11,435 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-15 16:27:15,949 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-15 16:27:15,990 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-15 16:27:16,227 - HealthGraph -INFO - *****click on Add button******
+2020-06-15 16:27:19,782 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-15 16:27:19,828 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-15 16:27:21,697 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-15 16:27:21,768 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-15 16:27:22,149 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-15 16:27:22,301 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-15 16:36:07,561 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-15 16:36:08,983 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-15 16:36:08,994 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-15 16:36:09,121 - HealthGraph -INFO - *****click on Add button******
+2020-06-15 16:36:12,614 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-15 16:36:12,667 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-15 16:36:13,468 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-15 16:36:13,506 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-15 16:36:13,826 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-15 16:36:14,043 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-18 21:37:19,466 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-18 21:37:21,633 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-18 21:37:21,649 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-18 21:40:34,547 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-18 21:40:36,655 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-18 21:40:36,666 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-18 21:40:36,833 - HealthGraph -INFO - *****click on Add button******
+2020-06-18 21:40:40,616 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-18 21:40:40,670 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-18 21:40:41,841 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-18 21:40:41,881 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-18 21:40:42,267 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-18 21:40:42,417 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-18 21:47:13,315 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-18 21:47:14,903 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-18 21:47:14,916 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-18 21:47:15,038 - HealthGraph -INFO - *****click on Add button******
+2020-06-18 21:47:18,539 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-18 21:47:18,561 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-18 21:47:19,394 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-18 21:47:19,437 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-18 21:47:19,755 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-18 21:47:19,891 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-18 21:59:14,874 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-18 21:59:16,257 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-18 21:59:16,269 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-18 21:59:16,405 - HealthGraph -INFO - *****click on Add button******
+2020-06-18 22:00:38,448 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-18 22:00:39,766 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-18 22:00:39,776 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-18 22:00:39,927 - HealthGraph -INFO - *****click on Add button******
+2020-06-18 22:01:31,378 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-18 22:01:32,696 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-18 22:01:32,713 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-18 22:01:32,831 - HealthGraph -INFO - *****click on Add button******
+2020-06-18 22:01:36,185 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-18 22:01:36,214 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-18 22:01:37,088 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-18 22:01:37,117 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-18 22:01:37,498 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-18 22:01:37,648 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-18 22:05:31,815 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-18 22:05:33,180 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-18 22:05:33,196 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-18 22:05:33,387 - HealthGraph -INFO - *****click on Add button******
+2020-06-18 22:05:36,967 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-18 22:05:36,994 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-18 22:05:37,802 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-18 22:05:37,849 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-18 22:05:38,154 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-18 22:05:38,310 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-19 11:52:20,514 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-19 11:52:22,645 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-19 11:52:22,660 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-19 11:52:22,942 - HealthGraph -INFO - *****click on Add button******
+2020-06-19 11:52:26,589 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-19 11:52:26,622 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-19 11:52:28,254 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-19 11:52:28,348 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-19 11:52:29,515 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-19 11:52:29,770 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-19 11:52:49,421 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-19 11:52:51,747 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-19 11:52:51,765 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-19 11:52:51,917 - HealthGraph -INFO - *****click on Add button******
+2020-06-19 11:52:55,357 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-19 11:52:55,382 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-19 11:52:56,694 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-19 11:52:56,730 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-19 11:52:57,068 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-19 11:52:57,215 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-19 11:55:27,400 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-19 11:55:28,141 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-19 11:55:28,159 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-19 11:56:56,622 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-19 11:56:57,266 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-19 11:56:57,281 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-19 11:57:51,313 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-19 11:57:51,942 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-19 11:57:51,957 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-19 11:58:56,556 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-19 11:58:58,544 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-19 11:58:58,556 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-19 11:58:58,677 - HealthGraph -INFO - *****click on Add button******
+2020-06-19 11:59:02,079 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-19 11:59:02,098 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-19 11:59:03,323 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-19 11:59:03,376 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-19 11:59:03,727 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-19 11:59:03,878 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-06-19 12:03:50,814 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-06-19 12:03:55,328 - HealthGraph -INFO - *****Logged in Successfully******
+2020-06-19 12:03:55,342 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-06-19 12:03:55,479 - HealthGraph -INFO - *****click on Add button******
+2020-06-19 12:03:58,897 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-06-19 12:03:58,919 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-06-19 12:04:02,424 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-06-19 12:04:02,475 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-06-19 12:04:02,867 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-06-19 12:04:03,036 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-17 18:21:13,094 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-07-17 18:21:14,579 - HealthGraph -INFO - *****Logged in Successfully******
+2020-07-17 18:21:14,595 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-07-17 18:21:14,760 - HealthGraph -INFO - *****click on Add button******
+2020-07-17 18:21:18,182 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-07-17 18:21:18,224 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-07-17 18:21:19,562 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-07-17 18:21:19,599 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-07-17 18:21:19,954 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-07-17 18:21:20,171 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-17 18:23:41,550 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-07-17 18:23:42,832 - HealthGraph -INFO - *****Logged in Successfully******
+2020-07-17 18:23:42,851 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-07-17 18:23:43,015 - HealthGraph -INFO - *****click on Add button******
+2020-07-17 18:23:46,366 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-07-17 18:23:46,386 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-07-17 18:23:47,111 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-07-17 18:23:47,152 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-07-17 18:23:47,552 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-07-17 18:23:47,699 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-17 18:24:55,351 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-07-17 18:24:56,644 - HealthGraph -INFO - *****Logged in Successfully******
+2020-07-17 18:24:56,655 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-07-17 18:24:56,821 - HealthGraph -INFO - *****click on Add button******
+2020-07-17 18:25:00,226 - HealthGraph -INFO - *****click on Add New Patient button******
+2020-07-17 18:25:00,246 - HealthGraph -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-07-17 18:25:00,985 - HealthGraph -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-07-17 18:25:01,022 - HealthGraph -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-07-17 18:25:01,369 - HealthGraph -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-07-17 18:25:01,528 - HealthGraph -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-17 18:25:10,596 - HealthGraph -INFO - *****Successfully Entered Username and Password******
+2020-07-17 18:25:12,046 - HealthGraph -INFO - *****Logged in Successfully******
+2020-07-17 18:25:12,059 - HealthGraph -INFO - *****User landed on OPD Home Page******
+2020-07-18 16:07:12,918 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-18 16:07:14,303 - Steps -INFO - *****Logged in Successfully******
+2020-07-18 16:07:14,314 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-18 16:07:15,078 - Steps -INFO - *****click on Add button******
+2020-07-18 16:07:18,796 - Steps -INFO - *****click on Add New Patient button******
+2020-07-18 16:07:18,881 - Steps -INFO - *****Modal have Patient Details, Other Details, History and Allergies tab on LHS ******
+2020-07-18 16:07:19,090 - Steps -INFO - *****Without filling mandatory field clicking on Appointment button******
+2020-07-18 16:07:19,125 - Steps -INFO - *****The warning message is highlighting in RED color if user not filling the mandatory fields******
+2020-07-18 16:07:19,474 - Steps -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-07-18 16:07:28,456 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-18 16:07:29,676 - Steps -INFO - *****Logged in Successfully******
+2020-07-18 16:07:29,687 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-18 16:07:30,397 - Steps -INFO - *****click on Add button******
+2020-07-18 16:07:34,036 - Steps -INFO - *****click on Add New Patient button******
+2020-07-18 16:07:42,626 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-18 16:07:43,873 - Steps -INFO - *****Logged in Successfully******
+2020-07-18 16:07:43,882 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-18 16:07:44,565 - Steps -INFO - *****click on Add button******
+2020-07-18 16:07:48,231 - Steps -INFO - *****click on Add New Patient button******
+2020-07-18 16:07:48,614 - Steps -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-07-18 16:07:48,657 - Steps -INFO - ****User clicks in Other Details tab********
+2020-07-18 16:07:48,700 - Steps -INFO - ****User selected blood group********
+2020-07-18 16:07:48,746 - Steps -INFO - ****User selected Maritial status********
+2020-07-18 16:07:49,101 - Steps -INFO - ****User filled emergency Name and Contact number********
+2020-07-18 16:07:49,137 - Steps -INFO - ****User selected Special status********
+2020-07-18 16:07:49,379 - Steps -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-18 16:07:57,416 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-18 16:07:58,698 - Steps -INFO - *****Logged in Successfully******
+2020-07-18 16:07:58,710 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-18 16:07:59,451 - Steps -INFO - *****click on Add button******
+2020-07-18 16:08:03,109 - Steps -INFO - *****click on Add New Patient button******
+2020-07-18 16:08:03,470 - Steps -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-07-18 16:08:03,505 - Steps -INFO - ****User clicks on History tab********
+2020-07-18 16:08:03,561 - Steps -INFO - ****Opthal History must have below tabs:Glaucoma
+2020-07-18 16:08:03,581 - Steps -INFO - ****Opthal History must have below tabs:Retinal Detachment
+2020-07-18 16:08:03,602 - Steps -INFO - ****Opthal History must have below tabs:Glass
+2020-07-18 16:08:03,622 - Steps -INFO - ****Opthal History must have below tabs:Eye Disease
+2020-07-18 16:08:03,641 - Steps -INFO - ****Opthal History must have below tabs:Eye Surgery
+2020-07-18 16:08:03,661 - Steps -INFO - ****Opthal History must have below tabs:Uveitis
+2020-07-18 16:08:03,683 - Steps -INFO - ****Opthal History must have below tabs:Retinal laser
+2020-07-18 16:08:09,845 - Steps -INFO - ****Systemic History must have below tabs:Diabetes
+2020-07-18 16:08:09,865 - Steps -INFO - ****Systemic History must have below tabs:Hypertension
+2020-07-18 16:08:09,885 - Steps -INFO - ****Systemic History must have below tabs:Alcoholism
+2020-07-18 16:08:09,905 - Steps -INFO - ****Systemic History must have below tabs:Smoking Tobacco
+2020-07-18 16:08:09,924 - Steps -INFO - ****Systemic History must have below tabs:Cardiac Disorder
+2020-07-18 16:08:09,944 - Steps -INFO - ****Systemic History must have below tabs:Steroid Intake
+2020-07-18 16:08:09,963 - Steps -INFO - ****Systemic History must have below tabs:Drug Abuse
+2020-07-18 16:08:09,985 - Steps -INFO - ****Systemic History must have below tabs:Hiv Aids
+2020-07-18 16:08:10,008 - Steps -INFO - ****Systemic History must have below tabs:Cancer Tumor
+2020-07-18 16:08:10,028 - Steps -INFO - ****Systemic History must have below tabs:Tuberculosis
+2020-07-18 16:08:10,049 - Steps -INFO - ****Systemic History must have below tabs:Asthma
+2020-07-18 16:08:10,069 - Steps -INFO - ****Systemic History must have below tabs:Cns Disorder Stroke
+2020-07-18 16:08:10,088 - Steps -INFO - ****Systemic History must have below tabs:Hypothyroidism
+2020-07-18 16:08:10,108 - Steps -INFO - ****Systemic History must have below tabs:Hyperthyroidism
+2020-07-18 16:08:10,128 - Steps -INFO - ****Systemic History must have below tabs:Hepatitis Cirrhosis
+2020-07-18 16:08:10,149 - Steps -INFO - ****Systemic History must have below tabs:Renal Disorder
+2020-07-18 16:08:10,169 - Steps -INFO - ****Systemic History must have below tabs:Acidity
+2020-07-18 16:08:10,188 - Steps -INFO - ****Systemic History must have below tabs:On insulin
+2020-07-18 16:08:10,209 - Steps -INFO - ****Systemic History must have below tabs:On Aspirin Blood Thinners
+2020-07-18 16:08:10,237 - Steps -INFO - ****Systemic History must have below tabs:Consanguinity
+2020-07-18 16:08:10,258 - Steps -INFO - ****Systemic History must have below tabs:Thyroid Disorder
+2020-07-18 16:08:10,278 - Steps -INFO - ****Systemic History must have below tabs:Chewing Tobacco
+2020-07-18 16:10:10,480 - Steps -INFO - **** User successfully entered Systemic History comments******
+2020-07-18 16:10:11,750 - Steps -INFO - **** User successfully entered Medical History comments******
+2020-07-18 16:10:12,961 - Steps -INFO - **** User successfully entered Family History comments******
+2020-07-18 16:10:13,250 - Steps -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-18 16:10:26,264 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-18 16:10:27,549 - Steps -INFO - *****Logged in Successfully******
+2020-07-18 16:10:27,557 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-18 16:10:28,268 - Steps -INFO - *****click on Add button******
+2020-07-18 16:10:31,969 - Steps -INFO - *****click on Add New Patient button******
+2020-07-18 16:10:32,333 - Steps -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-07-18 16:10:32,381 - Steps -INFO - ****User successfully clicked on Allergies tab******
+2020-07-18 16:10:32,420 - Steps -INFO - ****Drug Allergies must have this tabs:Antimicrobial Agents
+2020-07-18 16:10:32,438 - Steps -INFO - ****Drug Allergies must have this tabs:Antifungal Agents
+2020-07-18 16:10:32,456 - Steps -INFO - ****Drug Allergies must have this tabs:Antiviral Agents
+2020-07-18 16:10:32,474 - Steps -INFO - ****Drug Allergies must have this tabs:Nsaids
+2020-07-18 16:10:32,493 - Steps -INFO - ****Drug Allergies must have this tabs:Eye Drops
+2020-07-18 16:10:32,682 - Steps -INFO - ****Antimicrobial agents must have this tabs:Ampicillin
+2020-07-18 16:10:32,714 - Steps -INFO - ****Antimicrobial agents must have this tabs:Amoxicillin
+2020-07-18 16:10:32,748 - Steps -INFO - ****Antimicrobial agents must have this tabs:Ceftriaxone
+2020-07-18 16:10:32,768 - Steps -INFO - ****Antimicrobial agents must have this tabs:Ciprofloxacin
+2020-07-18 16:10:32,789 - Steps -INFO - ****Antimicrobial agents must have this tabs:Clarithromycin
+2020-07-18 16:10:32,816 - Steps -INFO - ****Antimicrobial agents must have this tabs:Co Trimoxazole
+2020-07-18 16:10:32,838 - Steps -INFO - ****Antimicrobial agents must have this tabs:Ethambutol
+2020-07-18 16:10:32,857 - Steps -INFO - ****Antimicrobial agents must have this tabs:Isoniazid
+2020-07-18 16:10:32,875 - Steps -INFO - ****Antimicrobial agents must have this tabs:Metronidazole
+2020-07-18 16:10:32,895 - Steps -INFO - ****Antimicrobial agents must have this tabs:Penicillin
+2020-07-18 16:10:32,917 - Steps -INFO - ****Antimicrobial agents must have this tabs:Rifampicin
+2020-07-18 16:10:32,941 - Steps -INFO - ****Antimicrobial agents must have this tabs:Streptomycin
+2020-07-18 16:10:33,120 - Steps -INFO - ****Antifungal agents must have this tabs:Ketoconazole
+2020-07-18 16:10:33,149 - Steps -INFO - ****Antifungal agents must have this tabs:Fluconazole
+2020-07-18 16:10:33,181 - Steps -INFO - ****Antifungal agents must have this tabs:Itraconazole
+2020-07-18 16:10:33,367 - Steps -INFO - ****Antiviral agents must have below tabs:Acyclovir
+2020-07-18 16:10:33,397 - Steps -INFO - ****Antiviral agents must have below tabs:Efavirenz
+2020-07-18 16:10:33,436 - Steps -INFO - ****Antiviral agents must have below tabs:Enfuvirtide
+2020-07-18 16:10:33,466 - Steps -INFO - ****Antiviral agents must have below tabs:Nelfinavir
+2020-07-18 16:10:33,486 - Steps -INFO - ****Antiviral agents must have below tabs:Nevirapine
+2020-07-18 16:10:33,505 - Steps -INFO - ****Antiviral agents must have below tabs:Zidovudine
+2020-07-18 16:10:33,695 - Steps -INFO - ****Nsaids must have below tabs:Aspirin
+2020-07-18 16:10:33,737 - Steps -INFO - ****Nsaids must have below tabs:Paracetamol
+2020-07-18 16:10:33,762 - Steps -INFO - ****Nsaids must have below tabs:Ibuprofen
+2020-07-18 16:10:33,782 - Steps -INFO - ****Nsaids must have below tabs:Diclofenac
+2020-07-18 16:10:33,799 - Steps -INFO - ****Nsaids must have below tabs:Aceclofenac
+2020-07-18 16:10:33,819 - Steps -INFO - ****Nsaids must have below tabs:Naproxen
+2020-07-18 16:10:34,013 - Steps -INFO - ****EyeDrops must have below tabs:Tropicamide_P
+2020-07-18 16:10:34,039 - Steps -INFO - ****EyeDrops must have below tabs:Tropicamide
+2020-07-18 16:10:34,069 - Steps -INFO - ****EyeDrops must have below tabs:Timolol
+2020-07-18 16:10:34,091 - Steps -INFO - ****EyeDrops must have below tabs:Homide
+2020-07-18 16:10:34,110 - Steps -INFO - ****EyeDrops must have below tabs:Latanoprost
+2020-07-18 16:10:34,129 - Steps -INFO - ****EyeDrops must have below tabs:Brimonidine
+2020-07-18 16:10:34,149 - Steps -INFO - ****EyeDrops must have below tabs:Travoprost
+2020-07-18 16:10:34,169 - Steps -INFO - ****EyeDrops must have below tabs:Tobramycin
+2020-07-18 16:10:34,189 - Steps -INFO - ****EyeDrops must have below tabs:Moxifloxacin
+2020-07-18 16:10:34,211 - Steps -INFO - ****EyeDrops must have below tabs:Homatropine
+2020-07-18 16:10:34,237 - Steps -INFO - ****EyeDrops must have below tabs:Pilocarpine
+2020-07-18 16:10:34,257 - Steps -INFO - ****EyeDrops must have below tabs:Cyclopentolate
+2020-07-18 16:10:34,279 - Steps -INFO - ****EyeDrops must have below tabs:Atropine
+2020-07-18 16:10:34,299 - Steps -INFO - ****EyeDrops must have below tabs:Phenylephrine
+2020-07-18 16:10:34,318 - Steps -INFO - ****EyeDrops must have below tabs:Tropicacyl
+2020-07-18 16:10:34,337 - Steps -INFO - ****EyeDrops must have below tabs:Paracain
+2020-07-18 16:10:34,358 - Steps -INFO - ****EyeDrops must have below tabs:Ciplox
+2020-07-18 16:10:34,408 - Steps -INFO - ****Contact Allergies must have below tabs:Alcohol
+2020-07-18 16:10:34,428 - Steps -INFO - ****Contact Allergies must have below tabs:Latex
+2020-07-18 16:10:34,449 - Steps -INFO - ****Contact Allergies must have below tabs:Betadine
+2020-07-18 16:10:34,471 - Steps -INFO - ****Contact Allergies must have below tabs:Adhesive Tape
+2020-07-18 16:10:34,493 - Steps -INFO - ****Contact Allergies must have below tabs:Tegaderm
+2020-07-18 16:10:34,514 - Steps -INFO - ****Contact Allergies must have below tabs:Transpore
+2020-07-18 16:10:34,548 - Steps -INFO - ****Food Allergies must have below tabs:All Seafood
+2020-07-18 16:10:34,567 - Steps -INFO - ****Food Allergies must have below tabs:Corn
+2020-07-18 16:10:34,586 - Steps -INFO - ****Food Allergies must have below tabs:Egg
+2020-07-18 16:10:34,605 - Steps -INFO - ****Food Allergies must have below tabs:Milk Proteins
+2020-07-18 16:10:34,626 - Steps -INFO - ****Food Allergies must have below tabs:Peanuts
+2020-07-18 16:10:34,646 - Steps -INFO - ****Food Allergies must have below tabs:Shellfish Only
+2020-07-18 16:10:34,667 - Steps -INFO - ****Food Allergies must have below tabs:Soy Protein
+2020-07-18 16:10:34,687 - Steps -INFO - ****Food Allergies must have below tabs:Lactose
+2020-07-18 16:10:34,708 - Steps -INFO - ****Food Allergies must have below tabs:Mushroom
+2020-07-18 16:10:35,736 - Steps -INFO - ****Antimicrobial agent must have this tab:Ampicillin
+2020-07-18 16:10:35,754 - Steps -INFO - ****Antimicrobial agent must have this tab:Amoxicillin
+2020-07-18 16:10:35,771 - Steps -INFO - ****Antimicrobial agent must have this tab:Ceftriaxone
+2020-07-18 16:10:35,785 - Steps -INFO - ****Antimicrobial agent must have this tab:Ciprofloxacin
+2020-07-18 16:10:35,801 - Steps -INFO - ****Antimicrobial agent must have this tab:Clarithromycin
+2020-07-18 16:10:35,820 - Steps -INFO - ****Antimicrobial agent must have this tab:Co Trimoxazole
+2020-07-18 16:10:35,837 - Steps -INFO - ****Antimicrobial agent must have this tab:Ethambutol
+2020-07-18 16:10:35,856 - Steps -INFO - ****Antimicrobial agent must have this tab:Isoniazid
+2020-07-18 16:10:35,870 - Steps -INFO - ****Antimicrobial agent must have this tab:Metronidazole
+2020-07-18 16:10:35,883 - Steps -INFO - ****Antimicrobial agent must have this tab:Penicillin
+2020-07-18 16:10:35,895 - Steps -INFO - ****Antimicrobial agent must have this tab:Rifampicin
+2020-07-18 16:10:35,908 - Steps -INFO - ****Antimicrobial agent must have this tab:Streptomycin
+2020-07-18 16:10:55,300 - Steps -INFO - ****Antifungal agent must have this tab:Ketoconazole
+2020-07-18 16:10:55,316 - Steps -INFO - ****Antifungal agent must have this tab:Fluconazole
+2020-07-18 16:10:55,332 - Steps -INFO - ****Antifungal agent must have this tab:Itraconazole
+2020-07-18 16:11:01,633 - Steps -INFO - ****Antiviral agent must have this tab:Acyclovir
+2020-07-18 16:11:01,650 - Steps -INFO - ****Antiviral agent must have this tab:Efavirenz
+2020-07-18 16:11:01,668 - Steps -INFO - ****Antiviral agent must have this tab:Enfuvirtide
+2020-07-18 16:11:01,702 - Steps -INFO - ****Antiviral agent must have this tab:Nelfinavir
+2020-07-18 16:11:01,721 - Steps -INFO - ****Antiviral agent must have this tab:Nevirapine
+2020-07-18 16:11:01,739 - Steps -INFO - ****Antiviral agent must have this tab:Zidovudine
+2020-07-18 16:11:16,314 - Steps -INFO - ****NSAIDS must have this tab:Aspirin
+2020-07-18 16:11:16,330 - Steps -INFO - ****NSAIDS must have this tab:Paracetamol
+2020-07-18 16:11:16,345 - Steps -INFO - ****NSAIDS must have this tab:Ibuprofen
+2020-07-18 16:11:16,362 - Steps -INFO - ****NSAIDS must have this tab:Diclofenac
+2020-07-18 16:11:16,378 - Steps -INFO - ****NSAIDS must have this tab:Aceclofenac
+2020-07-18 16:11:16,393 - Steps -INFO - ****NSAIDS must have this tab:Naproxen
+2020-07-18 16:11:34,696 - Steps -INFO - ****Eye Drops must have this tab:Tropicamide P
+2020-07-18 16:11:34,713 - Steps -INFO - ****Eye Drops must have this tab:Tropicamide
+2020-07-18 16:11:34,730 - Steps -INFO - ****Eye Drops must have this tab:Timolol
+2020-07-18 16:11:34,747 - Steps -INFO - ****Eye Drops must have this tab:Homide
+2020-07-18 16:11:34,764 - Steps -INFO - ****Eye Drops must have this tab:Latanoprost
+2020-07-18 16:11:34,780 - Steps -INFO - ****Eye Drops must have this tab:Brimonidine
+2020-07-18 16:11:34,795 - Steps -INFO - ****Eye Drops must have this tab:Travoprost
+2020-07-18 16:11:34,810 - Steps -INFO - ****Eye Drops must have this tab:Tobramycin
+2020-07-18 16:11:34,827 - Steps -INFO - ****Eye Drops must have this tab:Moxifloxacin
+2020-07-18 16:11:34,845 - Steps -INFO - ****Eye Drops must have this tab:Homatropine
+2020-07-18 16:11:34,858 - Steps -INFO - ****Eye Drops must have this tab:Pilocarpine
+2020-07-18 16:11:34,871 - Steps -INFO - ****Eye Drops must have this tab:Cyclopentolate
+2020-07-18 16:11:34,886 - Steps -INFO - ****Eye Drops must have this tab:Atropine
+2020-07-18 16:11:34,936 - Steps -INFO - ****Eye Drops must have this tab:Phenylephrine
+2020-07-18 16:11:34,954 - Steps -INFO - ****Eye Drops must have this tab:Tropicacyl
+2020-07-18 16:11:34,967 - Steps -INFO - ****Eye Drops must have this tab:Paracain
+2020-07-18 16:11:34,979 - Steps -INFO - ****Eye Drops must have this tab:Ciplox
+2020-07-18 16:12:48,580 - Steps -INFO - ****Contact Allergy must have this tab:Alcohol
+2020-07-18 16:12:48,596 - Steps -INFO - ****Contact Allergy must have this tab:Latex
+2020-07-18 16:12:48,624 - Steps -INFO - ****Contact Allergy must have this tab:Betadine
+2020-07-18 16:12:48,642 - Steps -INFO - ****Contact Allergy must have this tab:Adhesive Tape
+2020-07-18 16:12:48,658 - Steps -INFO - ****Contact Allergy must have this tab:Tegaderm
+2020-07-18 16:12:48,678 - Steps -INFO - ****Contact Allergy must have this tab:Transpore
+2020-07-18 16:12:49,555 - Steps -INFO - ****Food Allergies must have this tab:All Seafood
+2020-07-18 16:12:49,571 - Steps -INFO - ****Food Allergies must have this tab:Corn
+2020-07-18 16:12:49,586 - Steps -INFO - ****Food Allergies must have this tab:Egg
+2020-07-18 16:12:49,603 - Steps -INFO - ****Food Allergies must have this tab:Milk Proteins
+2020-07-18 16:12:49,616 - Steps -INFO - ****Food Allergies must have this tab:Peanuts
+2020-07-18 16:12:49,632 - Steps -INFO - ****Food Allergies must have this tab:Shellfish Only
+2020-07-18 16:12:49,650 - Steps -INFO - ****Food Allergies must have this tab:Soy Protein
+2020-07-18 16:12:49,671 - Steps -INFO - ****Food Allergies must have this tab:Lactose
+2020-07-18 16:12:49,687 - Steps -INFO - ****Food Allergies must have this tab:Mushroom
+2020-07-18 16:12:49,975 - Steps -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-18 16:12:58,894 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-18 16:13:00,214 - Steps -INFO - *****Logged in Successfully******
+2020-07-18 16:13:00,224 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-18 16:13:00,935 - Steps -INFO - *****click on Add button******
+2020-07-18 16:13:04,623 - Steps -INFO - *****click on Add New Patient button******
+2020-07-18 16:13:04,987 - Steps -INFO - *****User entered mandatory fields such as First name and Mob no******
+2020-07-18 16:13:05,023 - Steps -INFO - ***********Walkin Type radio button is autoselected************
+2020-07-18 16:13:05,044 - Steps -INFO - ***********Appointment Date----->18/07/2020
+2020-07-18 16:13:05,065 - Steps -INFO - ***********Appointment Date----->04:13 PM
+2020-07-18 16:13:05,250 - Steps -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-18 16:18:28,527 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-18 16:18:29,814 - Steps -INFO - *****Logged in Successfully******
+2020-07-18 16:18:29,828 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-18 16:18:31,121 - setting -INFO - User click on Practise Setting
+2020-07-18 16:18:40,771 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-18 16:18:42,054 - Steps -INFO - *****Logged in Successfully******
+2020-07-18 16:18:42,062 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-18 16:18:43,345 - setting -INFO - User click on Practise Setting
+2020-07-18 16:27:51,260 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-18 16:27:52,583 - Steps -INFO - *****Logged in Successfully******
+2020-07-18 16:27:52,614 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-18 16:27:53,985 - setting -INFO - User click on Practise Setting
+2020-07-18 16:27:54,653 - setting -INFO - On the click of defult setting select default view page is displaying-->PASS
+2020-07-18 16:28:10,653 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-18 16:28:12,198 - Steps -INFO - *****Logged in Successfully******
+2020-07-18 16:28:12,211 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-18 16:28:13,469 - setting -INFO - User click on Practise Setting
+2020-07-18 18:05:12,072 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-18 18:05:13,330 - Steps -INFO - *****Logged in Successfully******
+2020-07-18 18:05:13,343 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-18 18:05:14,079 - Steps -INFO - *****click on Add button******
+2020-07-18 18:05:17,798 - Steps -INFO - *****click on Add New Patient button******

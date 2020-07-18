@@ -8,7 +8,8 @@ public class Hook extends  WebConnector {
 
     @Before
     public void navigateToEGRApplication() {
-        driver.get("https://ehr.healthgraph.in/users/login");
+        driver.get("https://qaehr.healthgraph.in/users/login");
+        
     }
 
     @After

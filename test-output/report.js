@@ -1,389 +1,130 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("./Features/Add_Patient_For_OPD.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("./Features/OutPatient.feature");
 formatter.feature({
   "line": 1,
-  "name": "Create Appointment for OPD",
+  "name": "Verify Patient Details in OPD Page",
   "description": "",
-  "id": "create-appointment-for-opd",
+  "id": "verify-patient-details-in-opd-page",
   "keyword": "Feature"
 });
 formatter.scenarioOutline({
-  "line": 4,
-  "name": "Create Appointment for OPD by adding New Patient",
+  "line": 11,
+  "name": "Verification of Out patient department",
   "description": "",
-  "id": "create-appointment-for-opd;create-appointment-for-opd-by-adding-new-patient",
+  "id": "verify-patient-details-in-opd-page;verification-of-out-patient-department",
   "type": "scenario_outline",
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 3,
-      "name": "@PatientDetails"
+      "line": 10,
+      "name": "@PatientDetailsVerification"
     }
   ]
 });
 formatter.step({
-  "line": 5,
-  "name": "user fills \"\u003cuname\u003e\" and \"\u003cpswd\u003e\"",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 6,
-  "name": "clicks on Login",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 7,
-  "name": "user can view dashboard",
+  "line": 12,
+  "name": "fill patient details  \"\u003cFirstname\u003e\" \"\u003cMobno\u003e\" \"\u003cLastname\u003e\" \"\u003cEmail\u003e\" \"\u003clanguage\u003e\" \"\u003cPincode\u003e\" \"\u003cRef\u003e\"",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 8,
-  "name": "click on Add button",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "User should see a modal having the header \"Search Patient or Add New Patient\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 10,
-  "name": "Validate all the fields contains in add_new_patient modal",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "click on Add New Patient button",
-  "keyword": "Then "
-});
-formatter.step({
-  "comments": [
-    {
-      "line": 12,
-      "value": "#Then User should see a modal having the header \"Patient Registration \u0026 Appointment Form\""
-    }
-  ],
   "line": 13,
-  "name": "Modal must have below mentioned tabs",
-  "rows": [
-    {
-      "cells": [
-        "Patient Details"
-      ],
-      "line": 14
-    },
-    {
-      "cells": [
-        "Other Details"
-      ],
-      "line": 15
-    },
-    {
-      "cells": [
-        "History"
-      ],
-      "line": 16
-    },
-    {
-      "cells": [
-        "Allergies"
-      ],
-      "line": 17
-    }
-  ],
+  "name": "clicks on Other Details tab select One Eyed",
   "keyword": "And "
 });
 formatter.step({
-  "line": 18,
-  "name": "user without filling mandatory field and click on Appointment button",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 19,
-  "name": "validate warning message should display",
+  "line": 14,
+  "name": "select special status",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 20,
-  "name": "user fill mandatory fields \"\u003cfname\u003e\" \"\u003cmobNo\u003e\"",
-  "keyword": "When "
+  "line": 15,
+  "name": "select history details \"\u003cHistoryComment\u003e\" \"\u003cGlaucomaHistory\u003e\"",
+  "keyword": "And "
 });
 formatter.step({
-  "line": 21,
+  "line": 16,
+  "name": "select algeries details \"\u003cPenicillincomments\u003e\"",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 17,
   "name": "user can create Appointment",
   "keyword": "Then "
 });
-formatter.step({
-  "line": 22,
-  "name": "click on Add button",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 23,
-  "name": "click on Add New Patient button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 24,
-  "name": "fill patient details  \"\u003cfirstname1\u003e\" \"\u003cmobno1\u003e\" \"\u003cmiddlename\u003e\" \"\u003clastname\u003e\" \"\u003csecondaryno\u003e\" \"\u003cemail\u003e\" \"\u003clanguage\u003e\" \"\u003csecondarylanguage\u003e\" \"\u003cpincode\u003e\" \"\u003cAdd1\u003e\" \"\u003cAdd2\u003e\" \"\u003cMedicalRepoNo\u003e\" \"\u003cAadhaar\u003e\" \"\u003cPANno\u003e\" \"\u003cDLno\u003e\"",
-  "keyword": "Then "
-});
 formatter.examples({
-  "line": 26,
+  "line": 20,
   "name": "",
   "description": "",
-  "id": "create-appointment-for-opd;create-appointment-for-opd-by-adding-new-patient;",
+  "id": "verify-patient-details-in-opd-page;verification-of-out-patient-department;",
   "rows": [
     {
       "cells": [
-        "uname",
-        "pswd",
-        "fname",
-        "mobNo",
-        "firstname1",
-        "mobno1",
-        "middlename",
-        "lastname",
-        "secondaryno",
-        "email",
+        "Firstname",
+        "Mobno",
+        "Lastname",
+        "Email",
         "language",
-        "secondarylanguage",
-        "pincode",
-        "Add1",
-        "Add2",
-        "MedicalRepoNo",
-        "Aadhaar",
-        "PANno",
-        "DLno",
-        "DoctorReferal",
-        "DrName",
-        "DRMobNo",
-        "DrEmail",
-        "DRSpecialist",
-        "Drlocation",
-        "Drcity",
-        "DrState",
-        "DrComments",
-        "staffreferal",
-        "relative",
-        "relativename",
-        "relativemobno",
-        "relativeemail",
-        "relation",
-        "comment",
-        "campaign",
-        "camp",
-        "InstitutionalReferral",
-        "Agent",
-        "Online",
-        "ThirdParty",
-        "self",
-        "EmergencyName",
-        "EmergencyContact"
+        "Pincode",
+        "Ref",
+        "HistoryComment",
+        "GlaucomaHistory",
+        "Penicillincomments"
       ],
-      "line": 27,
-      "id": "create-appointment-for-opd;create-appointment-for-opd-by-adding-new-patient;;1"
+      "line": 21,
+      "id": "verify-patient-details-in-opd-page;verification-of-out-patient-department;;1"
     },
     {
       "cells": [
-        "hgdummyrec",
-        "HGraph@2$2$",
-        "Bikky",
-        "4678907665",
-        "Selenium",
+        "Biswajit",
         "9861929608",
-        "Automation",
-        "Test",
-        "7751996482",
+        "Tripathy",
         "bswjttripathy@gmail.com",
         "Hindi",
-        "English",
         "5600",
-        "keruna",
-        "chatrapada",
-        "MRN1",
-        "30965893118",
-        "ANMPT2557J",
-        "OR68310567",
-        "Doctor Referal",
-        "Automation Test",
-        "88008248940",
-        "bki@gmail.com",
-        "Medicine Specilist",
-        "Marathalli",
-        "Bangalore",
-        "Karnataka",
-        "Test",
-        "staffreferal",
-        "Relative",
-        "Test1",
-        "5773437887",
-        "Test@gmail.com",
-        "Tester",
-        "Test",
-        "campaign",
-        "camp",
-        "InstitutionalReferral",
-        "Agent",
-        "Online",
-        "ThirdParty",
-        "self",
-        "AutTest",
-        "AutoTest"
+        "Self",
+        "TestHistory",
+        "DetailHistory",
+        "AlgeryHistory"
       ],
-      "line": 28,
-      "id": "create-appointment-for-opd;create-appointment-for-opd-by-adding-new-patient;;2"
+      "line": 22,
+      "id": "verify-patient-details-in-opd-page;verification-of-out-patient-department;;2"
     }
   ],
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 10490906900,
+  "duration": 8326490300,
   "status": "passed"
 });
-formatter.scenario({
-  "line": 28,
-  "name": "Create Appointment for OPD by adding New Patient",
+formatter.background({
+  "line": 3,
+  "name": "",
   "description": "",
-  "id": "create-appointment-for-opd;create-appointment-for-opd-by-adding-new-patient;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 3,
-      "name": "@PatientDetails"
-    }
-  ]
+  "type": "background",
+  "keyword": "Background"
 });
 formatter.step({
-  "line": 5,
+  "line": 4,
   "name": "user fills \"hgdummyrec\" and \"HGraph@2$2$\"",
-  "matchedColumns": [
-    0,
-    1
-  ],
   "keyword": "When "
 });
 formatter.step({
-  "line": 6,
+  "line": 5,
   "name": "clicks on Login",
   "keyword": "And "
 });
 formatter.step({
-  "line": 7,
+  "line": 6,
   "name": "user can view dashboard",
   "keyword": "Then "
 });
 formatter.step({
+  "line": 7,
+  "name": "click on Add button",
+  "keyword": "And "
+});
+formatter.step({
   "line": 8,
-  "name": "click on Add button",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "User should see a modal having the header \"Search Patient or Add New Patient\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 10,
-  "name": "Validate all the fields contains in add_new_patient modal",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
   "name": "click on Add New Patient button",
-  "keyword": "Then "
-});
-formatter.step({
-  "comments": [
-    {
-      "line": 12,
-      "value": "#Then User should see a modal having the header \"Patient Registration \u0026 Appointment Form\""
-    }
-  ],
-  "line": 13,
-  "name": "Modal must have below mentioned tabs",
-  "rows": [
-    {
-      "cells": [
-        "Patient Details"
-      ],
-      "line": 14
-    },
-    {
-      "cells": [
-        "Other Details"
-      ],
-      "line": 15
-    },
-    {
-      "cells": [
-        "History"
-      ],
-      "line": 16
-    },
-    {
-      "cells": [
-        "Allergies"
-      ],
-      "line": 17
-    }
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 18,
-  "name": "user without filling mandatory field and click on Appointment button",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 19,
-  "name": "validate warning message should display",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "user fill mandatory fields \"Bikky\" \"4678907665\"",
-  "matchedColumns": [
-    2,
-    3
-  ],
-  "keyword": "When "
-});
-formatter.step({
-  "line": 21,
-  "name": "user can create Appointment",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 22,
-  "name": "click on Add button",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 23,
-  "name": "click on Add New Patient button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 24,
-  "name": "fill patient details  \"Selenium\" \"9861929608\" \"Automation\" \"Test\" \"7751996482\" \"bswjttripathy@gmail.com\" \"Hindi\" \"English\" \"5600\" \"keruna\" \"chatrapada\" \"MRN1\" \"30965893118\" \"ANMPT2557J\" \"OR68310567\"",
-  "matchedColumns": [
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18
-  ],
   "keyword": "Then "
 });
 formatter.match({
@@ -400,121 +141,101 @@ formatter.match({
   "location": "Steps.user_fills_and(String,String)"
 });
 formatter.result({
-  "duration": 587179400,
+  "duration": 453688000,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.clicks_on_Login()"
 });
 formatter.result({
-  "duration": 2016403700,
+  "duration": 1248143300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_can_view_dashboard()"
 });
 formatter.result({
-  "duration": 15747300,
+  "duration": 10044700,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Add_button()"
 });
 formatter.result({
-  "duration": 3186183100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Search Patient or Add New Patient",
-      "offset": 43
-    }
-  ],
-  "location": "Steps.user_should_see_a_modal_having_the_header(String)"
-});
-formatter.result({
-  "duration": 54260000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.validate_all_the_fields_contains_in_add_new_patient_modal()"
-});
-formatter.result({
-  "duration": 592767000,
+  "duration": 3754563600,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Add_New_Patient_button()"
 });
 formatter.result({
-  "duration": 198461300,
+  "duration": 694579000,
   "status": "passed"
 });
-formatter.match({
-  "location": "Steps.modal_must_have_below_mentioned_tabs(DataTable)"
-});
-formatter.result({
-  "duration": 43194200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.user_without_filling_mandatory_field_and_click_on_Appointment_button()"
-});
-formatter.result({
-  "duration": 843262100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.validate_warning_message_should_display()"
-});
-formatter.result({
-  "duration": 49701900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
+formatter.scenario({
+  "line": 22,
+  "name": "Verification of Out patient department",
+  "description": "",
+  "id": "verify-patient-details-in-opd-page;verification-of-out-patient-department;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
     {
-      "val": "Bikky",
-      "offset": 28
-    },
-    {
-      "val": "4678907665",
-      "offset": 36
+      "line": 10,
+      "name": "@PatientDetailsVerification"
     }
+  ]
+});
+formatter.step({
+  "line": 12,
+  "name": "fill patient details  \"Biswajit\" \"9861929608\" \"Tripathy\" \"bswjttripathy@gmail.com\" \"Hindi\" \"5600\" \"Self\"",
+  "matchedColumns": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
   ],
-  "location": "Steps.user_fill_mandatory_fields(String,String)"
+  "keyword": "Then "
 });
-formatter.result({
-  "duration": 480536400,
-  "status": "passed"
+formatter.step({
+  "line": 13,
+  "name": "clicks on Other Details tab select One Eyed",
+  "keyword": "And "
 });
-formatter.match({
-  "location": "Steps.user_can_create_Appointment()"
+formatter.step({
+  "line": 14,
+  "name": "select special status",
+  "keyword": "Then "
 });
-formatter.result({
-  "duration": 264661100,
-  "status": "passed"
+formatter.step({
+  "line": 15,
+  "name": "select history details \"TestHistory\" \"DetailHistory\"",
+  "matchedColumns": [
+    7,
+    8
+  ],
+  "keyword": "And "
 });
-formatter.match({
-  "location": "Steps.click_on_Add_button()"
+formatter.step({
+  "line": 16,
+  "name": "select algeries details \"AlgeryHistory\"",
+  "matchedColumns": [
+    9
+  ],
+  "keyword": "And "
 });
-formatter.result({
-  "duration": 3257629700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.click_on_Add_New_Patient_button()"
-});
-formatter.result({
-  "duration": 10435890900,
-  "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //*[text()\u003d\u0027Add New Patient\u0027] (tried for 10 second(s) with 500 milliseconds interval)\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\r\n\tat utilities.Common_Methods.waitTillClick(Common_Methods.java:141)\r\n\tat stepDefinations.Steps.click_on_Add_New_Patient_button(Steps.java:101)\r\n\tat ✽.Then click on Add New Patient button(./Features/Add_Patient_For_OPD.feature:23)\r\nCaused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[text()\u003d\u0027Add New Patient\u0027]\"}\n  (Session info: chrome\u003d83.0.4103.97)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027VICKYPC\u0027, ip: \u0027192.168.1.104\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027x86\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_251\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\lenovo\\AppData\\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61530}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 69d9e8836927827655d7531a4d3c1728\n*** Element info: {Using\u003dxpath, value\u003d//*[text()\u003d\u0027Add New Patient\u0027]}\r\n\tat sun.reflect.GeneratedConstructorAccessor14.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)\r\n\tat utilities.Common_Methods.waitTillClick(Common_Methods.java:141)\r\n\tat stepDefinations.Steps.click_on_Add_New_Patient_button(Steps.java:101)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)\r\n\tat cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)\r\n\tat cucumber.runtime.Runtime.runStep(Runtime.java:300)\r\n\tat cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)\r\n\tat cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)\r\n",
-  "status": "failed"
+formatter.step({
+  "line": 17,
+  "name": "user can create Appointment",
+  "keyword": "Then "
 });
 formatter.match({
   "arguments": [
     {
-      "val": "Selenium",
+      "val": "Biswajit",
       "offset": 23
     },
     {
@@ -522,65 +243,81 @@ formatter.match({
       "offset": 34
     },
     {
-      "val": "Automation",
+      "val": "Tripathy",
       "offset": 47
     },
     {
-      "val": "Test",
-      "offset": 60
-    },
-    {
-      "val": "7751996482",
-      "offset": 67
-    },
-    {
       "val": "bswjttripathy@gmail.com",
-      "offset": 80
+      "offset": 58
     },
     {
       "val": "Hindi",
-      "offset": 106
-    },
-    {
-      "val": "English",
-      "offset": 114
+      "offset": 84
     },
     {
       "val": "5600",
-      "offset": 124
+      "offset": 92
     },
     {
-      "val": "keruna",
-      "offset": 131
-    },
-    {
-      "val": "chatrapada",
-      "offset": 140
-    },
-    {
-      "val": "MRN1",
-      "offset": 153
-    },
-    {
-      "val": "30965893118",
-      "offset": 160
-    },
-    {
-      "val": "ANMPT2557J",
-      "offset": 174
-    },
-    {
-      "val": "OR68310567",
-      "offset": 187
+      "val": "Self",
+      "offset": 99
     }
   ],
-  "location": "Steps.fill_patient_details(String,String,String,String,String,String,String,String,String,String,String,String,String,String,String)"
+  "location": "OPDverify.fill_patient_details(String,String,String,String,String,String,String)"
+});
+formatter.result({
+  "duration": 228900,
+  "error_message": "cucumber.runtime.CucumberException: class stepDefinations.OPDverify doesn\u0027t have an empty constructor. If you need DI, put cucumber-picocontainer on the classpath\r\n\tat cucumber.runtime.java.DefaultJavaObjectFactory.cacheNewInstance(DefaultJavaObjectFactory.java:45)\r\n\tat cucumber.runtime.java.DefaultJavaObjectFactory.getInstance(DefaultJavaObjectFactory.java:33)\r\n\tat cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)\r\n\tat cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)\r\n\tat cucumber.runtime.Runtime.runStep(Runtime.java:300)\r\n\tat cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)\r\n\tat cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)\r\nCaused by: java.lang.NoSuchMethodException: stepDefinations.OPDverify.\u003cinit\u003e()\r\n\tat java.lang.Class.getConstructor0(Unknown Source)\r\n\tat java.lang.Class.getConstructor(Unknown Source)\r\n\tat cucumber.runtime.java.DefaultJavaObjectFactory.cacheNewInstance(DefaultJavaObjectFactory.java:40)\r\n\t... 50 more\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "OPDverify.clicks_on_Other_Details_tab_select_One_Eyed()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "OPDverify.select_special_status()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "TestHistory",
+      "offset": 24
+    },
+    {
+      "val": "DetailHistory",
+      "offset": 38
+    }
+  ],
+  "location": "OPDverify.select_history_details(String,String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "AlgeryHistory",
+      "offset": 25
+    }
+  ],
+  "location": "OPDverify.select_algeries_details(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Steps.user_can_create_Appointment()"
 });
 formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 770256200,
+  "duration": 722513500,
   "status": "passed"
 });
 });

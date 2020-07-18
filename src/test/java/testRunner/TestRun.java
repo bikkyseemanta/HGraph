@@ -8,18 +8,18 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		
-features = ".\\Features\\Add_Patient_For_OPD.feature",
-		
+
+		features = ".\\Features\\OutPatient.feature",
 		glue = {"stepDefinations" }, 
 		monochrome = true, 
 		dryRun = false,
 		strict = false,
-		 format =
-		 {"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"},
-		tags = { "@PatientDetails"},
-		plugin= {"pretty","html:test-output"})
+		format =
+	{"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"},
+	//tags = {"@Smoke"},
+	plugin= {"pretty","html:test-output"})
 
 public class TestRun {
 
 }
+

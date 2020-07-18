@@ -61,23 +61,6 @@ public class Common_Methods {
 		System.out.println("Screenshot taken");
 	}
 
-
-	/*public WebDriver browser_and_url_open() throws Throwable 
-	{
-		System.setProperty(readProperty("browserkey"),
-				readProperty("chromebrowser"));
-		//Reporter.addStepLog("Browser Opening");
-		driver = new ChromeDriver();
-		//driver = new FirefoxDriver();
-
-		driver.manage().window().maximize();
-		//driver.manage().deleteAllCookies();
-		driver.get(readProperty("url"));
-		//Reporter.addStepLog("Opening the url [ "+readProperty("url")+ " ]");
-		return driver;
-	}*/
-
-
 	public String readProperty(String key) throws Exception
 	{
 		FileReader reader=new FileReader("C:\\Users\\lenovo\\eclipse-workspace\\com.HG\\config.properties");  

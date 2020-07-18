@@ -46,7 +46,7 @@
 		<!-- nav-right -->
 		<ul id='nav-mobile' class='right hide-on-med-and-down nav-right'>
 			<a href='#!'>
-			<span class='label blue darken-3 suite-start-time'>Jun 12, 2020 12:58:35 AM</span>
+			<span class='label blue darken-3 suite-start-time'>Jul 18, 2020 06:05:03 PM</span>
 			</a>
 		</ul>
 	</div>
@@ -75,7 +75,7 @@
 				<i class='material-icons'>local_offer</i> Category
 				</a>
 				<ul id='category-toggle' class='dropdown-content'>
-					<li><a href='#'>@PatientDetails</a></li>
+					<li><a href='#'>@PatientDetailsVerification</a></li>
 					<li class='divider'></li>
 					<li class='clear'><a href='#!' clear='true'>Clear Filters</a></li>
 				</ul>
@@ -144,10 +144,10 @@
                     <canvas id='grandchild-analysis' width='90' height='70'></canvas>
                 </div>
                 <div class='block text-small'>
-                    <span class='tooltipped' data-position='top' data-tooltip='86.667%'><span class='strong'>13</span> step(s) passed</span>
+                    <span class='tooltipped' data-position='top' data-tooltip='45.455%'><span class='strong'>5</span> step(s) passed</span>
                 </div>
                 <div class='block text-small'>
-                    <span class='strong tooltipped' data-position='top' data-tooltip='6.667%'>1</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='6.667%'>1</span> others
+                    <span class='strong tooltipped' data-position='top' data-tooltip='9.091%'>1</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='45.455%'>5</span> others
                 </div>
             </div>
         </div>
@@ -167,8 +167,8 @@
 			<ul id='test-collection' class='test-collection'>
 				<li class='test displayed active has-leaf fail' status='fail' bdd='true' test-id='1'>
 					<div class='test-heading'>
-						<span class='test-name'>Create Appointment for OPD</span>
-						<span class='test-time'>Jun 12, 2020 12:58:46 AM</span>
+						<span class='test-name'>Verify Patient Details in OPD Page</span>
+						<span class='test-time'>Jul 18, 2020 06:05:11 PM</span>
 						<span class='test-status right fail'>fail</span>
 					</div>
 					<div class='test-content hide'>
@@ -179,13 +179,13 @@
     <a class="btn-floating waves-effect waves-light clear grey" title="clear"><i class='material-icons'>clear</i></a>
 </div>
 <div class='scenariooutline node' test-id='2' status='fail'>
-    <span class='duration right label'>0h 0m 22s+85ms</span>
+    <span class='duration right label'>0h 0m 6s+196ms</span>
     <div class="bdd-test">
-        <div class="scenario-name"><span class='status fail' title='fail'><i class='material-icons'>cancel</i></span> ScenarioOutline: Create Appointment for OPD by adding New Patient</div>
+        <div class="scenario-name"><span class='status fail' title='fail'><i class='material-icons'>cancel</i></span> ScenarioOutline: Verification of Out patient department</div>
     </div>
     <ul class='steps'>
         <li test-id='3' class='node scenario fail' status='fail'>
-            <div class="step-name" title=""><span class='status fail' title='fail'><i class='material-icons'>cancel</i></span>Create Appointment for OPD by adding New Patient</div>
+            <div class="step-name" title=""><span class='status fail' title='fail'><i class='material-icons'>cancel</i></span>Verification of Out patient department</div>
             <ul class='gc steps'>
                     <li test-id='4' class='gc when pass' status='pass'>
                         <h6 class="step-name" title=""><span class='status pass' title='pass'><i class='material-icons'>check_circle</i></span>When user fills "hgdummyrec" and "HGraph@2$2$"</h6>
@@ -204,87 +204,14 @@
                             <div class="node-step">passed</div>
                     </li>
                     <li test-id='8' class='gc then pass' status='pass'>
-                        <h6 class="step-name" title=""><span class='status pass' title='pass'><i class='material-icons'>check_circle</i></span>Then User should see a modal having the header "Search Patient or Add New Patient"</h6>
-                            <div class="node-step">passed</div>
-                    </li>
-                    <li test-id='9' class='gc then pass' status='pass'>
-                        <h6 class="step-name" title=""><span class='status pass' title='pass'><i class='material-icons'>check_circle</i></span>Then Validate all the fields contains in add_new_patient modal</h6>
-                            <div class="node-step">passed</div>
-                    </li>
-                    <li test-id='10' class='gc then pass' status='pass'>
                         <h6 class="step-name" title=""><span class='status pass' title='pass'><i class='material-icons'>check_circle</i></span>Then click on Add New Patient button</h6>
                             <div class="node-step">passed</div>
                     </li>
-                    <li test-id='11' class='gc and pass' status='pass'>
-                        <h6 class="step-name" title=""><span class='status pass' title='pass'><i class='material-icons'>check_circle</i></span>And Modal must have below mentioned tabs</h6>
-                            <div class="node-step"><table class='runtime-table table-striped table'><tr><td>Patient Details</td></tr><tr><td>Other Details</td></tr><tr><td>History</td></tr><tr><td>Allergies</td></tr></table></div>
-                            <div class="node-step">passed</div>
-                    </li>
-                    <li test-id='12' class='gc when pass' status='pass'>
-                        <h6 class="step-name" title=""><span class='status pass' title='pass'><i class='material-icons'>check_circle</i></span>When user without filling mandatory field and click on Appointment button</h6>
-                            <div class="node-step">passed</div>
-                    </li>
-                    <li test-id='13' class='gc then pass' status='pass'>
-                        <h6 class="step-name" title=""><span class='status pass' title='pass'><i class='material-icons'>check_circle</i></span>Then validate warning message should display</h6>
-                            <div class="node-step">The warning message is highlighting in RED color if user not filling the mandatory fields-->SUCCESS</div>
-                            <div class="node-step">passed</div>
-                    </li>
-                    <li test-id='14' class='gc when pass' status='pass'>
-                        <h6 class="step-name" title=""><span class='status pass' title='pass'><i class='material-icons'>check_circle</i></span>When user fill mandatory fields "Bikky" "4678907665"</h6>
-                            <div class="node-step">passed</div>
-                    </li>
-                    <li test-id='15' class='gc then pass' status='pass'>
-                        <h6 class="step-name" title=""><span class='status pass' title='pass'><i class='material-icons'>check_circle</i></span>Then user can create Appointment</h6>
-                            <div class="node-step">passed</div>
-                    </li>
-                    <li test-id='16' class='gc and pass' status='pass'>
-                        <h6 class="step-name" title=""><span class='status pass' title='pass'><i class='material-icons'>check_circle</i></span>And click on Add button</h6>
-                            <div class="node-step">passed</div>
-                    </li>
-                    <li test-id='17' class='gc then fail' status='fail'>
-                        <h6 class="step-name" title=""><span class='status fail' title='fail'><i class='material-icons'>cancel</i></span>Then click on Add New Patient button</h6>
-                            <textarea disabled class="code-block">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //*[text()='Add New Patient'] (tried for 10 second(s) with 500 milliseconds interval)
-	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at utilities.Common_Methods.waitTillClick(Common_Methods.java:141)
-	at stepDefinations.Steps.click_on_Add_New_Patient_button(Steps.java:101)
-	at ✽.Then click on Add New Patient button(./Features/Add_Patient_For_OPD.feature:23)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Add New Patient']"}
-  (Session info: chrome=83.0.4103.97)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'VICKYPC', ip: '192.168.1.104', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_251'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61530}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 69d9e8836927827655d7531a4d3c1728
-*** Element info: {Using=xpath, value=//*[text()='Add New Patient']}
-	at sun.reflect.GeneratedConstructorAccessor14.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
-	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
-	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
-	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-	at utilities.Common_Methods.waitTillClick(Common_Methods.java:141)
-	at stepDefinations.Steps.click_on_Add_New_Patient_button(Steps.java:101)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at cucumber.runtime.Utils$1.call(Utils.java:40)
-	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
-	at cucumber.runtime.Utils.invoke(Utils.java:34)
+                    <li test-id='9' class='gc then fail' status='fail'>
+                        <h6 class="step-name" title=""><span class='status fail' title='fail'><i class='material-icons'>cancel</i></span>Then fill patient details  "Biswajit" "9861929608" "Tripathy" "bswjttripathy@gmail.com" "Hindi" "5600" "Self"</h6>
+                            <textarea disabled class="code-block">cucumber.runtime.CucumberException: class stepDefinations.OPDverify doesn't have an empty constructor. If you need DI, put cucumber-picocontainer on the classpath
+	at cucumber.runtime.java.DefaultJavaObjectFactory.cacheNewInstance(DefaultJavaObjectFactory.java:45)
+	at cucumber.runtime.java.DefaultJavaObjectFactory.getInstance(DefaultJavaObjectFactory.java:33)
 	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)
 	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
 	at cucumber.runtime.Runtime.runStep(Runtime.java:300)
@@ -334,10 +261,31 @@ Session ID: 69d9e8836927827655d7531a4d3c1728
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)
+Caused by: java.lang.NoSuchMethodException: stepDefinations.OPDverify.<init>()
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.getConstructor(Unknown Source)
+	at cucumber.runtime.java.DefaultJavaObjectFactory.cacheNewInstance(DefaultJavaObjectFactory.java:40)
+	... 50 more
 </textarea>
                                                 </li>
-                    <li test-id='18' class='gc then skip' status='skip'>
-                        <h6 class="step-name" title=""><span class='status skip' title='skip'><i class='material-icons'>redo</i></span>Then fill patient details  "Selenium" "9861929608" "Automation" "Test" "7751996482" "bswjttripathy@gmail.com" "Hindi" "English" "5600" "keruna" "chatrapada" "MRN1" "30965893118" "ANMPT2557J" "OR68310567"</h6>
+                    <li test-id='10' class='gc and skip' status='skip'>
+                        <h6 class="step-name" title=""><span class='status skip' title='skip'><i class='material-icons'>redo</i></span>And clicks on Other Details tab select One Eyed</h6>
+                            <div class="node-step">skipped</div>
+                    </li>
+                    <li test-id='11' class='gc then skip' status='skip'>
+                        <h6 class="step-name" title=""><span class='status skip' title='skip'><i class='material-icons'>redo</i></span>Then select special status</h6>
+                            <div class="node-step">skipped</div>
+                    </li>
+                    <li test-id='12' class='gc and skip' status='skip'>
+                        <h6 class="step-name" title=""><span class='status skip' title='skip'><i class='material-icons'>redo</i></span>And select history details "TestHistory" "DetailHistory"</h6>
+                            <div class="node-step">skipped</div>
+                    </li>
+                    <li test-id='13' class='gc and skip' status='skip'>
+                        <h6 class="step-name" title=""><span class='status skip' title='skip'><i class='material-icons'>redo</i></span>And select algeries details "AlgeryHistory"</h6>
+                            <div class="node-step">skipped</div>
+                    </li>
+                    <li test-id='14' class='gc then skip' status='skip'>
+                        <h6 class="step-name" title=""><span class='status skip' title='skip'><i class='material-icons'>redo</i></span>Then user can create Appointment</h6>
                             <div class="node-step">skipped</div>
                     </li>
             </ul>
@@ -386,7 +334,7 @@ Session ID: 69d9e8836927827655d7531a4d3c1728
 			<ul id='category-collection' class='category-collection'>
 				<li class='category displayed active'>
 					<div class='category-heading'>
-						<span class='category-name'>@PatientDetails</span>
+						<span class='category-name'>@PatientDetailsVerification</span>
 						<span class='category-status right'>
 						<span class='label fail'>1</span>
 						</span>
@@ -408,8 +356,8 @@ Session ID: 69d9e8836927827655d7531a4d3c1728
 								</thead>
 								<tbody>
 									<tr>
-										<td>Jun 12, 2020 12:58:46 AM</td>
-										<td class='linked' test-id='3'>Create Appointment for OPD.Create Appointment for OPD by adding New Patient.Create Appointment for OPD by adding New Patient</td>
+										<td>Jul 18, 2020 06:05:11 PM</td>
+										<td class='linked' test-id='3'>Verify Patient Details in OPD Page.Verification of Out patient department.Verification of Out patient department</td>
 										<td><span class='test-status fail'>fail</span></td>
 									</tr>
 								</tbody>
@@ -446,7 +394,7 @@ Session ID: 69d9e8836927827655d7531a4d3c1728
 			<ul id='exception-collection' class='exception-collection'>
 				<li class='exception displayed active'>
 					<div class='exception-heading'>
-						<span class='exception-name'>org.openqa.selenium.TimeoutException</span>
+						<span class='exception-name'>cucumber.runtime.CucumberException</span>
 						<span class='exception-count right'><span class='label red lighten-1 white-text'>1</span></span>
 					</div>
 					<div class='exception-content hide'>
@@ -461,51 +409,12 @@ Session ID: 69d9e8836927827655d7531a4d3c1728
 								</thead>
 								<tbody>
 									<tr>
-										<td>Jun 12, 2020 12:58:57 AM</td>
-										<td class='linked' test-id='17'>Create Appointment for OPD.Create Appointment for OPD by adding New Patient.Create Appointment for OPD by adding New Patient.Then click on Add New Patient button</td>
+										<td>Jul 18, 2020 06:05:17 PM</td>
+										<td class='linked' test-id='9'>Verify Patient Details in OPD Page.Verification of Out patient department.Verification of Out patient department.Then fill patient details  "Biswajit" "9861929608" "Tripathy" "bswjttripathy@gmail.com" "Hindi" "5600" "Self"</td>
 										<td>
-											<textarea disabled class="code-block">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //*[text()='Add New Patient'] (tried for 10 second(s) with 500 milliseconds interval)
-	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at utilities.Common_Methods.waitTillClick(Common_Methods.java:141)
-	at stepDefinations.Steps.click_on_Add_New_Patient_button(Steps.java:101)
-	at ✽.Then click on Add New Patient button(./Features/Add_Patient_For_OPD.feature:23)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Add New Patient']"}
-  (Session info: chrome=83.0.4103.97)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'VICKYPC', ip: '192.168.1.104', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_251'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61530}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 69d9e8836927827655d7531a4d3c1728
-*** Element info: {Using=xpath, value=//*[text()='Add New Patient']}
-	at sun.reflect.GeneratedConstructorAccessor14.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
-	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
-	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
-	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-	at utilities.Common_Methods.waitTillClick(Common_Methods.java:141)
-	at stepDefinations.Steps.click_on_Add_New_Patient_button(Steps.java:101)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at cucumber.runtime.Utils$1.call(Utils.java:40)
-	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
-	at cucumber.runtime.Utils.invoke(Utils.java:34)
+											<textarea disabled class="code-block">cucumber.runtime.CucumberException: class stepDefinations.OPDverify doesn't have an empty constructor. If you need DI, put cucumber-picocontainer on the classpath
+	at cucumber.runtime.java.DefaultJavaObjectFactory.cacheNewInstance(DefaultJavaObjectFactory.java:45)
+	at cucumber.runtime.java.DefaultJavaObjectFactory.getInstance(DefaultJavaObjectFactory.java:33)
 	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)
 	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
 	at cucumber.runtime.Runtime.runStep(Runtime.java:300)
@@ -555,6 +464,11 @@ Session ID: 69d9e8836927827655d7531a4d3c1728
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)
+Caused by: java.lang.NoSuchMethodException: stepDefinations.OPDverify.<init>()
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.getConstructor(Unknown Source)
+	at cucumber.runtime.java.DefaultJavaObjectFactory.cacheNewInstance(DefaultJavaObjectFactory.java:40)
+	... 50 more
 </textarea>
 										</td>
 									</tr>
@@ -592,25 +506,25 @@ Session ID: 69d9e8836927827655d7531a4d3c1728
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Steps
-					<div class='panel-lead'>15</div>
+					<div class='panel-lead'>11</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Start
-					<div class='panel-lead'>Jun 12, 2020 12:58:35 AM</div>
+					<div class='panel-lead'>Jul 18, 2020 06:05:03 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 			 		End
-			 		<div class='panel-lead'>Jun 12, 2020 12:59:08 AM</div>
+			 		<div class='panel-lead'>Jul 18, 2020 06:05:18 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Time Taken
-					<div class='panel-lead'>0h 0m 33s+650ms</div>
+					<div class='panel-lead'>0h 0m 15s+441ms</div>
 				</div>
 			</div>
 			<div class='col s6'>
@@ -626,7 +540,7 @@ Session ID: 69d9e8836927827655d7531a4d3c1728
 							<th>Passed %</th>
 						</tr>
 						<tr>
-							<td>@PatientDetails</td>
+							<td>@PatientDetailsVerification</td>
 							<td>0</td>
 							<td>1</td>
 							<td>0</td>
@@ -663,21 +577,21 @@ Session ID: 69d9e8836927827655d7531a4d3c1728
 				infoChild: 0,
 				debugChild: 0,
 				exceptionsChild: 1,
-				grandChildCount: 15,
-				passGrandChild: 13,
+				grandChildCount: 11,
+				passGrandChild: 5,
 				failGrandChild: 1,
 				fatalGrandChild: 0,
 				errorGrandChild: 0,
 				warningGrandChild: 0,
-				skipGrandChild: 1,
+				skipGrandChild: 5,
 				infoGrandChild: 0,
 				debugGrandChild: 0,
-				exceptionsGrandChild: 2,
+				exceptionsGrandChild: 6,
 			};
 		</script>
 		<script>
 			var timeline = {
-			        "Create Appointment for OPD":22.085
+			        "Verify Patient Details in OPD Page":6.196
 			};
 		</script>
 		<script src='https://cdn.rawgit.com/extent-framework/extent-github-cdn/b65cd69/v3html/js/extent.js' type='text/javascript'></script>
