@@ -564,3 +564,97 @@
 2020-07-18 18:05:13,343 - Steps -INFO - *****User landed on OPD Home Page******
 2020-07-18 18:05:14,079 - Steps -INFO - *****click on Add button******
 2020-07-18 18:05:17,798 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 12:58:14,337 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 12:58:15,935 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 12:58:15,949 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 12:58:16,812 - Steps -INFO - *****click on Add button******
+2020-07-21 12:58:20,523 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 12:58:26,172 - OPDverify -INFO - ****User clicks in Other Details tab********
+2020-07-21 12:58:27,803 - OPDverify -INFO - ****User selected Special status********
+2020-07-21 12:58:27,854 - OPDverify -INFO - ****User clicks on History tab********
+2020-07-21 13:20:15,898 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 13:20:17,263 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 13:20:17,277 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 13:20:18,046 - Steps -INFO - *****click on Add button******
+2020-07-21 13:20:21,747 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 13:20:27,757 - Steps -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-21 13:23:46,066 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 13:23:47,380 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 13:23:47,399 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 13:23:48,155 - Steps -INFO - *****click on Add button******
+2020-07-21 13:23:51,820 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 13:23:57,907 - Steps -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-21 13:26:06,150 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 13:26:07,589 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 13:26:07,601 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 13:26:08,335 - Steps -INFO - *****click on Add button******
+2020-07-21 13:26:12,134 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 13:26:18,087 - Steps -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-21 13:29:49,132 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 13:29:50,471 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 13:29:50,499 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 13:29:51,239 - Steps -INFO - *****click on Add button******
+2020-07-21 13:29:54,941 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 13:30:01,297 - Steps -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-21 13:42:41,679 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 13:42:43,022 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 13:42:43,037 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 13:42:43,798 - Steps -INFO - *****click on Add button******
+2020-07-21 13:42:47,492 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 13:42:53,910 - Steps -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-21 13:49:25,681 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 13:49:27,101 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 13:49:27,117 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 13:49:27,845 - Steps -INFO - *****click on Add button******
+2020-07-21 13:49:31,586 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 13:50:27,595 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 13:50:28,843 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 13:50:28,856 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 13:50:29,637 - Steps -INFO - *****click on Add button******
+2020-07-21 13:50:33,283 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 13:50:39,868 - Steps -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-21 13:52:23,520 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 13:52:24,782 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 13:52:24,795 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 13:52:25,557 - Steps -INFO - *****click on Add button******
+2020-07-21 13:52:29,235 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 13:52:56,186 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 13:52:57,488 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 13:52:57,501 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 13:52:58,252 - Steps -INFO - *****click on Add button******
+2020-07-21 13:53:02,011 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 13:53:08,344 - Steps -INFO - *****User successfully created one appointment by entering mandatory fields******
+2020-07-21 13:53:09,437 - setting -INFO - Mobile no verified
+2020-07-21 18:28:56,697 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 18:28:57,950 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 18:28:57,962 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 18:28:58,778 - Steps -INFO - *****click on Add button******
+2020-07-21 18:29:02,463 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 18:30:42,499 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 18:30:43,771 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 18:30:43,784 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 18:30:44,512 - Steps -INFO - *****click on Add button******
+2020-07-21 18:30:48,238 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 19:00:03,763 - Steps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 19:00:04,995 - Steps -INFO - *****Logged in Successfully******
+2020-07-21 19:00:05,007 - Steps -INFO - *****User landed on OPD Home Page******
+2020-07-21 19:00:05,758 - Steps -INFO - *****click on Add button******
+2020-07-21 19:00:09,516 - Steps -INFO - *****click on Add New Patient button******
+2020-07-21 19:00:15,200 - CommonSteps -INFO - ****User clicks in Other Details tab********
+2020-07-21 19:00:16,890 - CommonSteps -INFO - ****User selected Special status********
+2020-07-21 19:00:16,932 - CommonSteps -INFO - ****User clicks on History tab********
+2020-07-21 19:54:12,141 - CommonSteps -INFO - *****Successfully Entered Username and Password******
+2020-07-21 19:54:13,362 - CommonSteps -INFO - *****Logged in Successfully******
+2020-07-21 19:54:14,138 - CommonSteps -INFO - *****click on Add button******
+2020-07-21 19:54:17,763 - CommonSteps -INFO - *****click on Add New Patient button******
+2020-07-21 19:54:23,490 - CommonSteps -INFO - ****User clicks in Other Details tab********
+2020-07-21 19:54:25,208 - CommonSteps -INFO - ****User selected Special status********
+2020-07-21 19:54:25,254 - CommonSteps -INFO - ****User clicks on History tab********
+2020-07-21 20:15:07,825 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-21 20:15:09,171 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-21 20:15:10,099 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-21 20:15:12,736 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-21 20:15:18,207 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, ReferralSelf
+2020-07-21 20:15:18,426 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-21 20:15:20,073 - CommonSteps -INFO - ****User selected Special status********
+2020-07-21 20:15:20,118 - CommonSteps -INFO - ****User clicks on History tab********

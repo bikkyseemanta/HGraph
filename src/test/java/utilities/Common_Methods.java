@@ -46,7 +46,7 @@ public class Common_Methods {
 	public Common_Methods(WebDriver driver){
 		this.driver = driver;
 		this.wait = new WebDriverWait(driver, 10);
-	}
+	}	
     
 	public  String randomstring() {
 		String generatedString1 = RandomStringUtils.randomAlphabetic(10);

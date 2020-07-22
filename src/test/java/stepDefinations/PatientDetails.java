@@ -17,12 +17,12 @@ import pageObjects.LoginPage;
 import utilities.Common_Methods;
 import utilities.WebConnector;
 
-public class Steps extends CommonSteps  
+public class PatientDetails extends CommonSteps  
 
 {
 	
 	Logger logger = Logger.getLogger("Steps");
-	public Steps() {
+	public PatientDetails() {
 
 
 		driver =  WebConnector.driver;
@@ -138,6 +138,7 @@ public class Steps extends CommonSteps
 	public void user_can_create_Appointment() throws Throwable
 	{
 		addpd.clickappointmentbtn();
+		
 		logger.info("*****User successfully created one appointment by entering mandatory fields******"); 					
 	}
 

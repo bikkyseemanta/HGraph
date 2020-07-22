@@ -249,11 +249,13 @@ public class AddPatientDetails
 		mobno.sendKeys(mobNo);
 	}
 
-	public void clickappointmentbtn()
+	public void clickappointmentbtn() throws Exception
 	{
 		commonMethod.expwait("//input[@value='Create Appointment']");
 		commonMethod.clickElementByElement(creatAppointmentButton);
+		commonMethod.normalWait(500);
 		commonMethod.expwait("//*[@class='glyphicon glyphicon-plus']");
+		
 	}
 
 	public void fillMidleNAme(String midlename)

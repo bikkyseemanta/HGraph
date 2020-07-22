@@ -12,7 +12,7 @@ public class Hook extends  WebConnector {
         
     }
 
-    @After
+   // @After
     public void closeEGRApplication() {
         if (driver != null) {
             driver.close();
