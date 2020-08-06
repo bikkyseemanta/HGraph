@@ -658,3 +658,1318 @@
 2020-07-21 20:15:18,426 - CommonSteps -INFO - Receptionist clicked on Other Details tab
 2020-07-21 20:15:20,073 - CommonSteps -INFO - ****User selected Special status********
 2020-07-21 20:15:20,118 - CommonSteps -INFO - ****User clicks on History tab********
+2020-07-22 16:01:03,898 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-22 16:01:05,791 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-22 16:01:06,999 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-22 16:01:09,762 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-22 16:01:15,470 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-22 16:01:15,719 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-22 16:01:17,340 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-22 16:01:17,467 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-22 16:01:17,503 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-22 16:01:20,945 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-22 16:01:22,249 - setting -INFO - Mobile no verified
+2020-07-22 17:27:21,743 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-22 17:27:23,032 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-22 17:27:23,756 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-22 17:27:26,440 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-22 17:27:31,845 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-22 17:27:31,973 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-22 17:27:33,545 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-22 17:27:33,617 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-22 17:27:33,677 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-22 17:27:36,955 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-22 17:27:38,164 - setting -INFO - 2
+2020-07-22 17:27:38,205 - setting -INFO - Mobile no verified
+2020-07-22 19:50:58,387 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-22 19:50:59,835 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-22 19:51:00,664 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-22 19:51:03,427 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-22 19:51:08,916 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-22 19:51:09,040 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-22 19:51:10,593 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-22 19:51:10,704 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-22 19:51:10,741 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-22 19:51:14,152 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-22 19:51:15,503 - setting -INFO - 3
+2020-07-22 19:51:15,528 - setting -INFO - Mobile no verified
+2020-07-22 19:51:15,571 - setting -INFO - One Eyed verified
+2020-07-22 19:51:15,618 - setting -INFO - Special status verified as Breastfeeding
+2020-07-22 19:51:15,672 - setting -INFO - Summary Button displaying in top left side
+2020-07-22 20:39:39,446 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-22 20:39:40,734 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-22 20:39:41,456 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-22 20:39:44,154 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-22 20:39:49,636 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-22 20:39:49,856 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-22 20:39:51,497 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-22 20:39:51,626 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-22 20:39:51,665 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-22 20:39:55,023 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-22 20:39:56,264 - setting -INFO - 4
+2020-07-22 20:39:56,317 - setting -INFO - Mobile no verified
+2020-07-22 20:39:56,365 - setting -INFO - One Eyed verified
+2020-07-22 20:39:56,412 - setting -INFO - Special status verified as Breastfeeding
+2020-07-22 20:39:56,465 - setting -INFO - Summary Button displaying in top right side
+2020-07-22 20:39:56,513 - setting -INFO - Print Button displaying in top right side
+2020-07-22 20:39:56,565 - setting -INFO - Report Button displaying in top right side
+2020-07-22 20:39:56,643 - setting -INFO - No Receipt found should show
+2020-07-22 20:39:56,681 - setting -INFO - Receipt button should show
+2020-07-22 20:50:56,595 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-22 20:50:57,941 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-22 20:50:58,735 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-22 20:51:01,406 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-22 20:51:06,886 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-22 20:51:07,147 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-22 20:51:08,739 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-22 20:51:08,852 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-22 20:51:08,896 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-22 20:51:12,362 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-22 20:51:13,614 - setting -INFO - 5
+2020-07-22 20:51:13,667 - setting -INFO - Mobile no verified
+2020-07-22 20:51:13,745 - setting -INFO - One Eyed verified
+2020-07-22 20:51:13,798 - setting -INFO - Special status verified as Breastfeeding
+2020-07-22 20:51:13,833 - setting -INFO - Summary Button displaying in top right side
+2020-07-22 20:51:13,864 - setting -INFO - Print Button displaying in top right side
+2020-07-22 20:51:13,899 - setting -INFO - Report Button displaying in top right side
+2020-07-22 20:51:13,933 - setting -INFO - No Receipt found should show
+2020-07-22 20:51:13,968 - setting -INFO - Receipt button should show
+2020-07-22 20:51:14,002 - setting -INFO - Appointment Details by default selected
+2020-07-22 20:51:14,036 - setting -INFO -  Edit Appointment button is should show
+2020-07-22 20:51:14,068 - setting -INFO - Schedule Admission button should present
+2020-07-22 20:51:14,100 - setting -INFO - Surgery Advised button should present
+2020-07-22 21:01:32,186 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-22 21:01:33,488 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-22 21:01:34,191 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-22 21:01:36,810 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-22 21:01:42,322 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-22 21:01:42,442 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-22 21:01:44,007 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-22 21:01:44,043 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-22 21:01:44,083 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-22 21:01:47,427 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-22 21:01:48,614 - setting -INFO - 6
+2020-07-22 21:01:48,646 - setting -INFO - Mobile no verified
+2020-07-22 21:01:48,677 - setting -INFO - One Eyed verified
+2020-07-22 21:01:48,709 - setting -INFO - Special status verified as Breastfeeding
+2020-07-22 21:01:48,744 - setting -INFO - Summary Button displaying in top right side
+2020-07-22 21:01:48,779 - setting -INFO - Print Button displaying in top right side
+2020-07-22 21:01:48,812 - setting -INFO - Report Button displaying in top right side
+2020-07-22 21:01:48,846 - setting -INFO - No Receipt found should show
+2020-07-22 21:01:48,880 - setting -INFO - Receipt button should show
+2020-07-22 21:01:48,913 - setting -INFO - Appointment Details by default selected
+2020-07-22 21:01:48,947 - setting -INFO -  Edit Appointment button is should show
+2020-07-22 21:01:48,987 - setting -INFO - Schedule Admission button should present
+2020-07-22 21:01:49,021 - setting -INFO - Surgery Advised button should present
+2020-07-22 21:02:45,005 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-22 21:02:46,357 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-22 21:02:47,079 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-22 21:02:49,753 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-22 21:02:55,353 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-22 21:02:55,590 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-22 21:02:57,154 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-22 21:02:57,229 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-22 21:02:57,281 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-22 21:03:00,674 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-22 21:03:01,841 - setting -INFO - 7
+2020-07-22 21:03:01,867 - setting -INFO - Mobile no verified
+2020-07-22 21:03:01,902 - setting -INFO - One Eyed verified
+2020-07-22 21:03:01,934 - setting -INFO - Special status verified as Breastfeeding
+2020-07-22 21:03:01,972 - setting -INFO - Summary Button displaying in top right side
+2020-07-22 21:03:02,007 - setting -INFO - Print Button displaying in top right side
+2020-07-22 21:03:02,046 - setting -INFO - Report Button displaying in top right side
+2020-07-22 21:03:02,082 - setting -INFO - No Receipt found should show
+2020-07-22 21:03:02,116 - setting -INFO - Receipt button should show
+2020-07-22 21:03:02,156 - setting -INFO - Appointment Details by default selected
+2020-07-22 21:03:02,189 - setting -INFO -  Edit Appointment button is should show
+2020-07-22 21:03:02,226 - setting -INFO - Schedule Admission button should present
+2020-07-22 21:03:02,266 - setting -INFO - Surgery Advised button should present
+2020-07-22 21:08:22,177 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-22 21:08:23,673 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-22 21:08:24,397 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-22 21:08:27,007 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-22 21:08:32,417 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-22 21:08:32,599 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-22 21:08:34,178 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-22 21:08:34,282 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-22 21:08:34,323 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-22 21:08:37,624 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-22 21:08:38,836 - setting -INFO - 8
+2020-07-22 21:08:38,859 - setting -INFO - Mobile no verified
+2020-07-22 21:08:38,890 - setting -INFO - One Eyed verified
+2020-07-22 21:08:38,920 - setting -INFO - Special status verified as Breastfeeding
+2020-07-22 21:08:38,955 - setting -INFO - Summary Button displaying in top right side
+2020-07-22 21:08:38,987 - setting -INFO - Print Button displaying in top right side
+2020-07-22 21:08:39,020 - setting -INFO - Report Button displaying in top right side
+2020-07-22 21:08:39,051 - setting -INFO - No Receipt found should show
+2020-07-22 21:08:39,082 - setting -INFO - Receipt button should show
+2020-07-22 21:08:39,115 - setting -INFO - Appointment Details by default selected
+2020-07-22 21:08:39,147 - setting -INFO -  Edit Appointment button is should show
+2020-07-22 21:08:39,178 - setting -INFO - Schedule Admission button should present
+2020-07-22 21:08:39,209 - setting -INFO - Surgery Advised button should present
+2020-07-22 21:08:39,274 - setting -INFO - Reschedule button should present
+2020-07-22 21:08:39,305 - setting -INFO - Cancel button should present
+2020-07-22 21:08:39,337 - setting -INFO - Upload Paper button should present
+2020-07-22 21:08:39,369 - setting -INFO - Schedule OT button should present
+2020-07-22 21:08:39,510 - setting -INFO - No of Appointment tabs on LHS:6
+2020-07-22 21:08:39,526 - setting -INFO - List of Appointment tabs on LHS:0
+MY QUEUE
+2020-07-22 21:08:39,540 - setting -INFO - List of Appointment tabs on LHS:8
+ALL
+2020-07-22 21:08:39,554 - setting -INFO - List of Appointment tabs on LHS:8
+NOT ARRIVED
+2020-07-22 21:08:39,569 - setting -INFO - List of Appointment tabs on LHS:0
+COMPLETED
+2020-07-22 21:08:39,582 - setting -INFO - List of Appointment tabs on LHS:0
+REFERRALS
+2020-07-22 21:08:39,598 - setting -INFO - List of Appointment tabs on LHS:0
+UNASSIGNED
+2020-07-23 12:08:54,850 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 12:09:01,416 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 12:09:02,230 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 12:09:05,020 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 12:09:50,883 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 12:09:52,169 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 12:09:52,929 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 12:09:55,595 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 12:10:01,076 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 12:10:01,254 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 12:10:02,862 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 12:10:02,956 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 12:10:03,035 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 12:10:06,431 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 12:10:07,608 - setting -INFO - 1
+2020-07-23 12:10:07,634 - setting -INFO - Mobile no verified
+2020-07-23 12:10:07,667 - setting -INFO - One Eyed verified
+2020-07-23 12:10:07,699 - setting -INFO - Special status verified as Breastfeeding
+2020-07-23 12:10:07,736 - setting -INFO - Summary Button displaying in top right side
+2020-07-23 12:10:07,768 - setting -INFO - Print Button displaying in top right side
+2020-07-23 12:10:07,803 - setting -INFO - Report Button displaying in top right side
+2020-07-23 12:10:07,835 - setting -INFO - No Receipt found should show
+2020-07-23 12:10:07,868 - setting -INFO - Receipt button should show
+2020-07-23 12:10:07,905 - setting -INFO - Appointment Details by default selected
+2020-07-23 12:10:07,939 - setting -INFO -  Edit Appointment button is should show
+2020-07-23 12:10:07,972 - setting -INFO - Schedule Admission button should present
+2020-07-23 12:10:08,007 - setting -INFO - Surgery Advised button should present
+2020-07-23 12:10:08,064 - setting -INFO - Reschedule button should present
+2020-07-23 12:10:08,097 - setting -INFO - Cancel button should present
+2020-07-23 12:10:08,131 - setting -INFO - Upload Paper button should present
+2020-07-23 12:10:08,165 - setting -INFO - Schedule OT button should present
+2020-07-23 12:10:08,242 - setting -INFO - No of Appointment tabs on LHS:6
+2020-07-23 12:10:08,257 - setting -INFO - List of Appointment tabs on LHS:0
+MY QUEUE
+2020-07-23 12:10:08,272 - setting -INFO - List of Appointment tabs on LHS:1
+ALL
+2020-07-23 12:10:08,286 - setting -INFO - List of Appointment tabs on LHS:1
+NOT ARRIVED
+2020-07-23 12:10:08,300 - setting -INFO - List of Appointment tabs on LHS:0
+COMPLETED
+2020-07-23 12:10:08,317 - setting -INFO - List of Appointment tabs on LHS:0
+REFERRALS
+2020-07-23 12:10:08,350 - setting -INFO - List of Appointment tabs on LHS:0
+UNASSIGNED
+2020-07-23 12:10:08,386 - setting -INFO - Mark Patient button should present
+2020-07-23 12:10:08,455 - setting -INFO - User marked as Patient Arrived
+2020-07-23 13:03:57,512 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 13:03:59,031 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 13:03:59,806 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 13:04:02,522 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 13:04:08,120 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 13:04:08,300 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 13:04:09,914 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 13:04:10,039 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 13:04:10,082 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 13:05:12,091 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 13:05:13,553 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 13:05:14,312 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 13:05:17,125 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 13:05:22,656 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 13:05:22,848 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 13:05:24,502 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 13:05:24,577 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 13:05:24,614 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 13:19:59,308 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 13:20:00,661 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 13:20:01,430 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 13:20:04,224 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 13:20:09,612 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 13:20:09,765 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 13:20:11,367 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 13:20:11,455 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 13:20:11,491 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 13:20:12,691 - CommonSteps -INFO - **** User successfully entered Medical History comments******
+2020-07-23 13:20:13,025 - CommonSteps -INFO - **** User successfully entered Family History comments******
+2020-07-23 13:20:15,960 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 13:20:17,268 - setting -INFO - 2
+2020-07-23 13:20:17,322 - setting -INFO - Mobile no verified
+2020-07-23 13:20:17,368 - setting -INFO - One Eyed verified
+2020-07-23 13:20:17,406 - setting -INFO - Special status verified as Breastfeeding
+2020-07-23 13:20:17,453 - setting -INFO - Summary Button displaying in top right side
+2020-07-23 13:20:17,491 - setting -INFO - Print Button displaying in top right side
+2020-07-23 13:20:17,538 - setting -INFO - Report Button displaying in top right side
+2020-07-23 13:20:17,591 - setting -INFO - No Receipt found should show
+2020-07-23 13:20:17,638 - setting -INFO - Receipt button should show
+2020-07-23 13:20:17,707 - setting -INFO - Appointment Details by default selected
+2020-07-23 13:20:17,754 - setting -INFO -  Edit Appointment button is should show
+2020-07-23 13:20:17,792 - setting -INFO - Schedule Admission button should present
+2020-07-23 13:20:17,840 - setting -INFO - Surgery Advised button should present
+2020-07-23 13:20:17,918 - setting -INFO - Reschedule button should present
+2020-07-23 13:20:17,947 - setting -INFO - Cancel button should present
+2020-07-23 13:20:17,993 - setting -INFO - Upload Paper button should present
+2020-07-23 13:20:18,041 - setting -INFO - Schedule OT button should present
+2020-07-23 13:20:18,071 - setting -INFO - No of Appointment tabs on LHS:6
+2020-07-23 13:20:18,087 - setting -INFO - List of Appointment tabs on LHS:0
+MY QUEUE
+2020-07-23 13:20:18,093 - setting -INFO - List of Appointment tabs on LHS:2
+ALL
+2020-07-23 13:20:18,109 - setting -INFO - List of Appointment tabs on LHS:2
+NOT ARRIVED
+2020-07-23 13:20:18,125 - setting -INFO - List of Appointment tabs on LHS:0
+COMPLETED
+2020-07-23 13:20:18,140 - setting -INFO - List of Appointment tabs on LHS:0
+REFERRALS
+2020-07-23 13:20:18,156 - setting -INFO - List of Appointment tabs on LHS:0
+UNASSIGNED
+2020-07-23 13:20:18,209 - setting -INFO - Mark Patient button should present
+2020-07-23 13:20:18,320 - setting -INFO - User marked as Patient Arrived
+2020-07-23 14:26:41,174 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 14:26:42,544 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 14:26:43,259 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 14:26:46,003 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 14:26:51,451 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 14:26:51,622 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 14:26:53,245 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 14:26:53,386 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 14:26:53,424 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 14:26:54,587 - CommonSteps -INFO - **** User successfully entered Medical History comments******
+2020-07-23 14:26:54,803 - CommonSteps -INFO - **** User successfully entered Family History comments******
+2020-07-23 14:26:57,794 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 14:26:59,629 - setting -INFO - 3
+2020-07-23 14:26:59,660 - setting -INFO - Mobile no verified
+2020-07-23 14:26:59,697 - setting -INFO - One Eyed verified
+2020-07-23 14:26:59,756 - setting -INFO - Special status verified as Breastfeeding
+2020-07-23 14:26:59,826 - setting -INFO - Summary Button displaying in top right side
+2020-07-23 14:26:59,868 - setting -INFO - Print Button displaying in top right side
+2020-07-23 14:26:59,903 - setting -INFO - Report Button displaying in top right side
+2020-07-23 14:26:59,933 - setting -INFO - No Receipt found should show
+2020-07-23 14:26:59,967 - setting -INFO - Receipt button should show
+2020-07-23 14:26:59,998 - setting -INFO - Appointment Details by default selected
+2020-07-23 14:27:00,047 - setting -INFO -  Edit Appointment button is should show
+2020-07-23 14:27:00,079 - setting -INFO - Schedule Admission button should present
+2020-07-23 14:27:00,112 - setting -INFO - Surgery Advised button should present
+2020-07-23 14:27:00,173 - setting -INFO - Reschedule button should present
+2020-07-23 14:27:00,208 - setting -INFO - Cancel button should present
+2020-07-23 14:27:00,258 - setting -INFO - Upload Paper button should present
+2020-07-23 14:27:00,305 - setting -INFO - Schedule OT button should present
+2020-07-23 14:27:00,336 - setting -INFO - No of Appointment tabs on LHS:6
+2020-07-23 14:27:00,343 - setting -INFO - List of Appointment tabs on LHS:0
+MY QUEUE
+2020-07-23 14:27:00,359 - setting -INFO - List of Appointment tabs on LHS:3
+ALL
+2020-07-23 14:27:00,374 - setting -INFO - List of Appointment tabs on LHS:3
+NOT ARRIVED
+2020-07-23 14:27:00,390 - setting -INFO - List of Appointment tabs on LHS:0
+COMPLETED
+2020-07-23 14:27:00,405 - setting -INFO - List of Appointment tabs on LHS:0
+REFERRALS
+2020-07-23 14:27:00,421 - setting -INFO - List of Appointment tabs on LHS:0
+UNASSIGNED
+2020-07-23 14:27:00,475 - setting -INFO - Mark Patient button should present
+2020-07-23 14:27:00,617 - setting -INFO - User marked as Patient Arrived
+2020-07-23 15:55:24,623 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 15:55:26,002 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 15:55:26,756 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 15:55:29,425 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 15:55:35,087 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 15:55:35,316 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 15:55:36,942 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 15:55:37,094 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 15:55:37,140 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 15:55:38,328 - CommonSteps -INFO - **** User successfully entered Medical History comments******
+2020-07-23 15:55:38,547 - CommonSteps -INFO - **** User successfully entered Family History comments******
+2020-07-23 15:55:41,565 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 15:55:42,796 - setting -INFO - 1
+2020-07-23 15:55:42,807 - setting -INFO - Mobile no verified
+2020-07-23 15:55:42,857 - setting -INFO - One Eyed verified
+2020-07-23 15:55:42,904 - setting -INFO - Special status verified as Breastfeeding
+2020-07-23 15:55:42,958 - setting -INFO - Summary Button displaying in top right side
+2020-07-23 15:55:43,020 - setting -INFO - Print Button displaying in top right side
+2020-07-23 15:55:43,074 - setting -INFO - Report Button displaying in top right side
+2020-07-23 15:55:43,137 - setting -INFO - No Receipt found should show
+2020-07-23 15:55:43,206 - setting -INFO - Receipt button should show
+2020-07-23 15:55:43,258 - setting -INFO - Appointment Details by default selected
+2020-07-23 15:55:43,321 - setting -INFO -  Edit Appointment button is should show
+2020-07-23 15:55:43,390 - setting -INFO - Schedule Admission button should present
+2020-07-23 15:55:43,437 - setting -INFO - Surgery Advised button should present
+2020-07-23 15:55:43,541 - setting -INFO - Reschedule button should present
+2020-07-23 15:55:43,593 - setting -INFO - Cancel button should present
+2020-07-23 15:55:43,628 - setting -INFO - Upload Paper button should present
+2020-07-23 15:55:43,661 - setting -INFO - Schedule OT button should present
+2020-07-23 15:55:43,682 - setting -INFO - No of Appointment tabs on LHS:6
+2020-07-23 15:55:43,697 - setting -INFO - List of Appointment tabs on LHS:0
+MY QUEUE
+2020-07-23 15:55:43,711 - setting -INFO - List of Appointment tabs on LHS:7
+ALL
+2020-07-23 15:55:43,727 - setting -INFO - List of Appointment tabs on LHS:1
+NOT ARRIVED
+2020-07-23 15:55:43,741 - setting -INFO - List of Appointment tabs on LHS:2
+COMPLETED
+2020-07-23 15:55:43,754 - setting -INFO - List of Appointment tabs on LHS:1
+REFERRALS
+2020-07-23 15:55:43,768 - setting -INFO - List of Appointment tabs on LHS:0
+UNASSIGNED
+2020-07-23 15:55:43,827 - setting -INFO - Mark Patient button should present
+2020-07-23 15:55:43,904 - setting -INFO - User marked as Patient Arrived
+2020-07-23 15:55:44,606 - setting -INFO - User Skipped without Token
+2020-07-23 17:08:21,486 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 17:08:23,123 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 17:08:23,977 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 17:08:28,030 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 17:08:33,969 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 17:08:34,167 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 17:08:35,801 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 17:08:35,986 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 17:08:36,062 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 17:08:37,437 - CommonSteps -INFO - **** User successfully entered Medical History comments******
+2020-07-23 17:08:37,685 - CommonSteps -INFO - **** User successfully entered Family History comments******
+2020-07-23 17:08:40,377 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 17:08:40,594 - setting -INFO - 0
+2020-07-23 17:08:40,634 - setting -INFO - Mobile no verified
+2020-07-23 17:08:40,690 - setting -INFO - One Eyed verified
+2020-07-23 17:08:40,730 - setting -INFO - Special status verified as Breastfeeding
+2020-07-23 17:08:40,778 - setting -INFO - Summary Button displaying in top right side
+2020-07-23 17:08:40,888 - setting -INFO - Print Button displaying in top right side
+2020-07-23 17:08:40,924 - setting -INFO - Report Button displaying in top right side
+2020-07-23 17:08:40,964 - setting -INFO - No Receipt found should show
+2020-07-23 17:08:41,004 - setting -INFO - Receipt button should show
+2020-07-23 17:08:41,043 - setting -INFO - Appointment Details by default selected
+2020-07-23 17:08:41,087 - setting -INFO -  Edit Appointment button is should show
+2020-07-23 17:08:41,126 - setting -INFO - Schedule Admission button should present
+2020-07-23 17:13:14,734 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 17:13:15,989 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 17:13:16,836 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 17:13:20,685 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 17:13:26,834 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 17:13:27,223 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 17:13:28,869 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 17:13:29,080 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 17:13:29,224 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 17:13:30,630 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-23 17:13:30,933 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-23 17:13:33,595 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 17:13:33,799 - setting -INFO - 1
+2020-07-23 17:13:33,868 - setting -INFO - Mobile no verified
+2020-07-23 17:13:33,946 - setting -INFO - One Eyed verified
+2020-07-23 17:13:34,015 - setting -INFO - Special status verified as Breastfeeding
+2020-07-23 17:13:34,155 - setting -INFO - Summary Button displaying in top right side
+2020-07-23 17:13:34,195 - setting -INFO - Print Button displaying in top right side
+2020-07-23 17:13:34,231 - setting -INFO - Report Button displaying in top right side
+2020-07-23 17:13:34,267 - setting -INFO - No Receipt found should show
+2020-07-23 17:13:34,303 - setting -INFO - Receipt button should show
+2020-07-23 17:13:34,343 - setting -INFO - Appointment Details by default selected
+2020-07-23 17:13:34,393 - setting -INFO -  Edit Appointment button is should show
+2020-07-23 17:13:34,456 - setting -INFO - Schedule Admission button should present
+2020-07-23 17:13:34,572 - setting -INFO - Surgery Advised button should present
+2020-07-23 17:14:41,053 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 17:14:42,258 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 17:14:43,090 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 17:14:46,923 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 17:14:53,276 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 17:14:53,687 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 17:14:55,329 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 17:14:55,467 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 17:14:55,567 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 17:14:56,910 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-23 17:14:57,146 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-23 17:14:59,903 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 17:15:00,091 - setting -INFO - 2
+2020-07-23 17:15:00,123 - setting -INFO - Mobile no verified
+2020-07-23 17:15:00,163 - setting -INFO - One Eyed verified
+2020-07-23 17:15:00,204 - setting -INFO - Special status verified as Breastfeeding
+2020-07-23 17:15:00,315 - setting -INFO - Summary Button displaying in top right side
+2020-07-23 17:15:00,359 - setting -INFO - Print Button displaying in top right side
+2020-07-23 17:15:00,391 - setting -INFO - Report Button displaying in top right side
+2020-07-23 17:15:00,427 - setting -INFO - No Receipt found should show
+2020-07-23 17:15:00,463 - setting -INFO - Receipt button should show
+2020-07-23 17:15:00,499 - setting -INFO - Appointment Details by default selected
+2020-07-23 17:15:00,535 - setting -INFO -  Edit Appointment button is should show
+2020-07-23 17:15:00,581 - setting -INFO - Schedule Admission button should present
+2020-07-23 17:15:00,611 - setting -INFO - Surgery Advised button should present
+2020-07-23 17:15:00,679 - setting -INFO - No of Appointment tabs on LHS:6
+2020-07-23 17:15:00,691 - setting -INFO - List of Appointment tabs on LHS:1
+MY QUEUE
+2020-07-23 17:15:00,701 - setting -INFO - List of Appointment tabs on LHS:9
+ALL
+2020-07-23 17:15:00,717 - setting -INFO - List of Appointment tabs on LHS:2
+NOT ARRIVED
+2020-07-23 17:15:00,732 - setting -INFO - List of Appointment tabs on LHS:2
+COMPLETED
+2020-07-23 17:15:00,748 - setting -INFO - List of Appointment tabs on LHS:1
+REFERRALS
+2020-07-23 17:15:00,771 - setting -INFO - List of Appointment tabs on LHS:0
+UNASSIGNED
+2020-07-23 17:37:18,895 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 17:37:21,690 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 17:37:22,601 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 17:37:26,545 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 17:37:32,632 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 17:37:32,943 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 17:37:34,597 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 17:37:34,777 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 17:37:34,846 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 17:37:36,132 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-23 17:37:36,378 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-23 17:37:40,104 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 17:37:40,282 - setting -INFO - 2
+2020-07-23 17:37:40,320 - setting -INFO - Mobile no verified
+2020-07-23 17:37:40,366 - setting -INFO - One Eyed verified
+2020-07-23 17:37:40,404 - setting -INFO - Special status verified as Breastfeeding
+2020-07-23 17:37:40,466 - setting -INFO - Summary Button displaying in top right side
+2020-07-23 17:37:40,504 - setting -INFO - Print Button displaying in top right side
+2020-07-23 17:37:40,557 - setting -INFO - Report Button displaying in top right side
+2020-07-23 17:37:40,741 - setting -INFO - No Receipt found should show
+2020-07-23 17:37:40,777 - setting -INFO - Receipt button should show
+2020-07-23 17:37:40,813 - setting -INFO - Appointment Details by default selected
+2020-07-23 17:37:40,852 - setting -INFO -  Edit Appointment button is should show
+2020-07-23 17:37:40,892 - setting -INFO - Schedule Admission button should present
+2020-07-23 17:37:40,932 - setting -INFO - Surgery Advised button should present
+2020-07-23 17:37:40,984 - setting -INFO - No of Appointment tabs on LHS:6
+2020-07-23 17:37:41,000 - setting -INFO - List of Appointment tabs on LHS:2
+MY QUEUE
+2020-07-23 17:37:41,012 - setting -INFO - List of Appointment tabs on LHS:10
+ALL
+2020-07-23 17:37:41,024 - setting -INFO - List of Appointment tabs on LHS:2
+NOT ARRIVED
+2020-07-23 17:37:41,040 - setting -INFO - List of Appointment tabs on LHS:2
+COMPLETED
+2020-07-23 17:37:41,056 - setting -INFO - List of Appointment tabs on LHS:1
+REFERRALS
+2020-07-23 17:37:41,064 - setting -INFO - List of Appointment tabs on LHS:0
+UNASSIGNED
+2020-07-23 17:37:43,270 - setting -INFO - Mark Patient button should present
+2020-07-23 17:37:43,539 - setting -INFO - User marked as Patient Arrived
+2020-07-23 17:37:44,376 - setting -INFO - User Skipped without Token
+2020-07-23 17:37:48,084 - setting -INFO - Send to should displayed
+2020-07-23 17:37:48,295 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-23 17:37:48,319 - setting -INFO - No of Appointment tabs on LHS:9
+2020-07-23 17:37:48,335 - setting -INFO - List of Send To Tabs :Receptionist    
+2020-07-23 17:37:48,351 - setting -INFO - List of Send To Tabs :Optometrist    
+2020-07-23 17:37:48,393 - setting -INFO - List of Send To Tabs :Doctor    
+2020-07-23 17:37:48,409 - setting -INFO - List of Send To Tabs :Nurse    
+2020-07-23 17:37:48,421 - setting -INFO - List of Send To Tabs :Counsellor    
+2020-07-23 17:37:48,433 - setting -INFO - List of Send To Tabs :Floormanager    
+2020-07-23 17:37:48,449 - setting -INFO - List of Send To Tabs :Ar Nct    
+2020-07-23 17:37:48,465 - setting -INFO - List of Send To Tabs :Cashier    
+2020-07-23 17:37:48,481 - setting -INFO - List of Send To Tabs :Departments    
+2020-07-23 17:37:48,653 - setting -INFO -  Total No of Optometrist in the Hospitals: 2
+2020-07-23 17:37:48,669 - setting -INFO - No of Receptionist in the Hospital :
+2020-07-23 17:37:48,681 - setting -INFO - No of Receptionist in the Hospital :
+2020-07-23 17:37:48,898 - setting -INFO -  Total No of Optometrist in the Hospitals: 6
+2020-07-23 17:37:48,934 - setting -INFO - List of Optometrist in the Hospital :
+2020-07-23 17:37:48,970 - setting -INFO - List of Optometrist in the Hospital :
+2020-07-23 17:37:49,022 - setting -INFO - List of Optometrist in the Hospital :
+2020-07-23 17:37:49,058 - setting -INFO - List of Optometrist in the Hospital :
+2020-07-23 17:37:49,074 - setting -INFO - List of Optometrist in the Hospital :
+2020-07-23 17:37:49,090 - setting -INFO - List of Optometrist in the Hospital :
+2020-07-23 17:37:49,254 - setting -INFO -  Total No of Doctor in the Hospitals: 2
+2020-07-23 17:37:49,270 - setting -INFO - List of Doctors in the Hospital :
+2020-07-23 17:37:49,290 - setting -INFO - List of Doctors in the Hospital :
+2020-07-23 17:37:49,533 - setting -INFO -  Total No of Nurse in the Hospitals: 1
+2020-07-23 17:37:49,545 - setting -INFO - List of Nurse in the Hospital :
+2020-07-23 17:37:49,825 - setting -INFO -  Total No of Counsellor in the Hospitals: 1
+2020-07-23 17:37:49,857 - setting -INFO - List of Counsellor in the Hospital :
+2020-07-23 17:37:50,386 - setting -INFO -  Total No of Floor Managers in the Hospitals: 2
+2020-07-23 17:37:50,432 - setting -INFO - List of Floor Managers in the Hospital :
+2020-07-23 17:37:50,472 - setting -INFO - List of Floor Managers in the Hospital :
+2020-07-23 18:11:42,283 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 18:11:45,921 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 18:11:46,782 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 18:11:51,281 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 18:11:57,747 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 18:11:58,138 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 18:11:59,715 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 18:11:59,751 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 18:11:59,903 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 18:12:01,526 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-23 18:12:01,787 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-23 18:12:04,516 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 18:12:04,649 - setting -INFO - 2
+2020-07-23 18:12:04,681 - setting -INFO - Mobile no verified
+2020-07-23 18:12:04,721 - setting -INFO - One Eyed verified
+2020-07-23 18:12:04,761 - setting -INFO - Special status verified as Breastfeeding
+2020-07-23 18:12:04,809 - setting -INFO - Summary Button displaying in top right side
+2020-07-23 18:12:04,934 - setting -INFO - Print Button displaying in top right side
+2020-07-23 18:12:04,966 - setting -INFO - Report Button displaying in top right side
+2020-07-23 18:12:05,002 - setting -INFO - No Receipt found should show
+2020-07-23 18:12:05,034 - setting -INFO - Receipt button should show
+2020-07-23 18:12:05,070 - setting -INFO - Appointment Details by default selected
+2020-07-23 18:12:05,107 - setting -INFO -  Edit Appointment button is should show
+2020-07-23 18:12:05,147 - setting -INFO - Schedule Admission button should present
+2020-07-23 18:13:33,564 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 18:13:35,359 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 18:13:36,240 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 18:13:40,350 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 18:13:47,071 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 18:13:47,248 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 18:13:48,911 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 18:13:49,052 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 18:13:49,100 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 18:13:50,330 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-23 18:13:50,556 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-23 18:13:53,391 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 18:13:53,658 - setting -INFO - 3
+2020-07-23 18:13:53,706 - setting -INFO - Mobile no verified
+2020-07-23 18:13:53,754 - setting -INFO - One Eyed verified
+2020-07-23 18:13:53,794 - setting -INFO - Special status verified as Breastfeeding
+2020-07-23 18:13:53,842 - setting -INFO - Summary Button displaying in top right side
+2020-07-23 18:13:53,890 - setting -INFO - Print Button displaying in top right side
+2020-07-23 18:13:53,938 - setting -INFO - Report Button displaying in top right side
+2020-07-23 18:13:54,054 - setting -INFO - No Receipt found should show
+2020-07-23 18:13:54,094 - setting -INFO - Receipt button should show
+2020-07-23 18:13:54,130 - setting -INFO - Appointment Details by default selected
+2020-07-23 18:13:54,169 - setting -INFO -  Edit Appointment button is should show
+2020-07-23 18:13:54,209 - setting -INFO - Schedule Admission button should present
+2020-07-23 18:13:54,295 - setting -INFO - No of Appointment tabs on LHS:6
+2020-07-23 18:13:54,466 - setting -INFO - List of Appointment tabs on LHS:3
+MY QUEUE
+2020-07-23 18:22:46,593 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 18:22:48,134 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 18:22:49,114 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 18:22:51,797 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 18:22:57,798 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 18:22:58,103 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 18:22:59,741 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 18:22:59,903 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 18:23:00,019 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 18:23:01,251 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-23 18:23:01,517 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-23 18:23:04,416 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 18:23:08,031 - setting -INFO - Mark Patient button should present
+2020-07-23 18:23:08,268 - setting -INFO - User marked as Patient Arrived
+2020-07-23 18:23:09,229 - setting -INFO - User Skipped without Token
+2020-07-23 18:26:43,545 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 18:26:44,890 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 18:26:45,707 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 18:26:48,405 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 18:26:54,159 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 18:26:54,466 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 18:26:56,098 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 18:26:56,219 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 18:26:56,295 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 18:26:57,660 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-23 18:26:57,929 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-23 18:27:00,714 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 18:27:02,259 - setting -INFO - Mark Patient button should present
+2020-07-23 18:27:02,590 - setting -INFO - User marked as Patient Arrived
+2020-07-23 18:27:03,596 - setting -INFO - User Skipped without Token
+2020-07-23 18:27:05,000 - setting -INFO - Send to should displayed
+2020-07-23 18:27:05,203 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-23 18:27:05,681 - setting -INFO - No of patients in queue before sending patient to doctor: 3
+2020-07-23 18:27:06,356 - setting -INFO - No of patients in queue after sending patient to doctor: 3
+2020-07-23 18:40:30,421 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 18:40:31,875 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 18:40:32,720 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 18:40:35,476 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 18:40:41,491 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 18:40:41,854 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 18:40:43,524 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 18:40:43,650 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 18:40:43,727 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 18:40:45,131 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-23 18:40:45,375 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-23 18:40:48,149 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 18:40:49,562 - setting -INFO - Mark Patient button should present
+2020-07-23 18:40:49,666 - setting -INFO - User marked as Patient Arrived
+2020-07-23 18:40:50,559 - setting -INFO - User Skipped without Token
+2020-07-23 18:40:52,069 - setting -INFO - Send to should displayed
+2020-07-23 18:40:52,301 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-23 18:40:52,578 - setting -INFO - No of patients in queue before sending patient to doctor: 5
+2020-07-23 18:40:52,616 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 4
+2020-07-23 19:00:34,282 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 19:00:35,889 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 19:00:36,852 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 19:00:39,932 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 19:00:46,836 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 19:00:47,313 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 19:00:48,950 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 19:00:49,042 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 19:00:49,130 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 19:00:50,842 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-23 19:00:51,469 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-23 19:00:55,175 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 19:00:58,703 - setting -INFO - Mark Patient button should present
+2020-07-23 19:00:58,909 - setting -INFO - User marked as Patient Arrived
+2020-07-23 19:00:59,737 - setting -INFO - User Skipped without Token
+2020-07-23 19:01:01,390 - setting -INFO - Send to should displayed
+2020-07-23 19:01:01,629 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-23 19:01:02,174 - setting -INFO - No of patients in queue before sending patient to doctor: 6
+2020-07-23 19:01:02,266 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 4
+2020-07-23 19:08:18,400 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-23 19:08:19,766 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-23 19:08:20,588 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-23 19:08:23,380 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-23 19:08:28,873 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-23 19:08:29,064 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-23 19:08:30,634 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-23 19:08:30,746 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-23 19:08:30,786 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-23 19:08:31,967 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-23 19:08:32,205 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-23 19:08:35,319 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-23 19:08:36,666 - setting -INFO - Mark Patient button should present
+2020-07-23 19:08:36,770 - setting -INFO - User marked as Patient Arrived
+2020-07-23 19:08:37,501 - setting -INFO - User Skipped without Token
+2020-07-23 19:08:38,795 - setting -INFO - Send to should displayed
+2020-07-23 19:08:38,871 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-23 19:08:39,082 - setting -INFO - No of patients in queue before sending patient to doctor: 7
+2020-07-23 19:08:39,117 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 4
+2020-07-24 09:54:56,986 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-24 09:54:58,434 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-24 09:54:59,348 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-24 09:55:02,701 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-24 09:55:42,547 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-24 09:55:43,843 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-24 09:55:44,545 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-24 09:55:47,270 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-24 09:55:52,814 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-24 09:55:52,960 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-24 09:55:54,541 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-24 09:55:54,620 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-24 09:55:54,677 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-24 09:55:55,838 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-24 09:55:56,069 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-24 09:55:59,165 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-24 09:56:03,781 - setting -INFO - Mark Patient button should present
+2020-07-24 09:56:03,850 - setting -INFO - User marked as Patient Arrived
+2020-07-24 09:56:04,591 - setting -INFO - User Skipped without Token
+2020-07-24 09:56:07,395 - setting -INFO - Send to should displayed
+2020-07-24 09:56:07,497 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-24 09:56:07,665 - setting -INFO - No of patients in queue before sending patient to doctor: 0
+2020-07-24 09:56:07,699 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 1
+2020-07-24 10:08:00,212 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-24 10:08:01,598 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-24 10:08:02,380 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-24 10:08:05,025 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-24 10:08:10,697 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-24 10:08:10,922 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-24 10:08:12,506 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-24 10:08:12,596 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-24 10:08:12,648 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-24 10:08:13,810 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-24 10:08:14,050 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-24 10:08:17,118 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-24 10:08:18,359 - setting -INFO - Mark Patient button should present
+2020-07-24 10:08:18,441 - setting -INFO - User marked as Patient Arrived
+2020-07-24 10:08:19,192 - setting -INFO - User Skipped without Token
+2020-07-24 10:08:20,405 - setting -INFO - Send to should displayed
+2020-07-24 10:08:20,470 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-24 10:08:20,610 - setting -INFO - No of patients in queue before sending patient to doctor: 0
+2020-07-24 10:08:20,643 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 3
+2020-07-24 10:08:31,169 - setting -INFO - Doctor successfully logged into the account
+2020-07-24 10:38:28,701 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-24 10:38:30,061 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-24 10:38:30,446 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-24 10:38:33,138 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-24 10:38:38,676 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-24 10:38:38,857 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-24 10:38:40,462 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-24 10:38:40,564 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-24 10:38:40,606 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-24 10:38:41,842 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-24 10:38:42,097 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-24 10:38:45,272 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-24 10:38:46,547 - setting -INFO - Mark Patient button should present
+2020-07-24 10:38:46,620 - setting -INFO - User marked as Patient Arrived
+2020-07-24 10:38:47,350 - setting -INFO - User Skipped without Token
+2020-07-24 10:38:49,176 - setting -INFO - Send to should displayed
+2020-07-24 10:38:49,382 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-24 10:38:49,617 - setting -INFO - No of patients in queue before sending patient to doctor: 0
+2020-07-24 10:38:49,654 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 3
+2020-07-24 10:39:00,782 - setting -INFO - Doctor successfully logged into the account
+2020-07-24 11:03:21,555 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-24 11:03:23,003 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-24 11:03:23,793 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-24 11:03:26,520 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-24 11:03:32,475 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-24 11:03:32,639 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-24 11:03:34,232 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-24 11:03:34,335 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-24 11:03:34,380 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-24 11:03:35,670 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-24 11:03:35,913 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-24 11:03:38,858 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-24 11:03:40,039 - setting -INFO - Mark Patient button should present
+2020-07-24 11:03:40,111 - setting -INFO - User marked as Patient Arrived
+2020-07-24 11:03:40,742 - setting -INFO - User Skipped without Token
+2020-07-24 11:03:42,452 - setting -INFO - Send to should displayed
+2020-07-24 11:03:42,517 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-24 11:03:42,969 - setting -INFO - No of patients in queue before sending patient to doctor: 3
+2020-07-24 11:03:43,019 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 3
+2020-07-24 11:03:54,038 - setting -INFO - Doctor successfully logged into the account
+2020-07-24 11:03:54,702 - setting -INFO - Adverse Event button should present
+2020-07-24 11:03:54,738 - setting -INFO - Case Details should present
+2020-07-24 11:03:54,778 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-24 11:03:54,830 - setting -INFO - Template Details text should present
+2020-07-24 11:03:54,882 - setting -INFO - New Template button should present
+2020-07-24 11:03:54,920 - setting -INFO - Consolidated Report button should present
+2020-07-24 17:36:27,123 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-24 17:36:28,790 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-24 17:36:30,164 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-24 17:36:32,851 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-24 17:36:38,703 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-24 17:36:38,862 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-24 17:36:40,396 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-24 17:36:40,468 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-24 17:36:40,515 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-24 17:36:41,915 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-24 17:36:42,223 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-24 17:36:45,164 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-24 17:36:46,340 - setting -INFO - Mark Patient button should present
+2020-07-24 17:36:46,421 - setting -INFO - User marked as Patient Arrived
+2020-07-24 17:36:47,137 - setting -INFO - User Skipped without Token
+2020-07-24 17:36:49,334 - setting -INFO - Send to should displayed
+2020-07-24 17:36:49,400 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-24 17:36:49,906 - setting -INFO - No of patients in queue before sending patient to doctor: 4
+2020-07-24 17:36:49,973 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 3
+2020-07-24 17:37:01,752 - setting -INFO - Doctor successfully logged into the account
+2020-07-24 17:37:02,377 - setting -INFO - Adverse Event button should present
+2020-07-24 17:37:02,415 - setting -INFO - Case Details should present
+2020-07-24 17:37:02,447 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-24 17:37:02,478 - setting -INFO - Template Details text should present
+2020-07-24 17:37:02,511 - setting -INFO - New Template button should present
+2020-07-24 17:37:02,548 - setting -INFO - Consolidated Report button should present
+2020-07-30 12:05:09,983 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-30 12:05:13,245 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-30 12:05:14,089 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-30 12:05:17,302 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-30 12:05:31,511 - setting -INFO - Doctor successfully logged into the account
+2020-07-30 12:06:23,444 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-30 12:06:24,865 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-30 12:06:25,596 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-30 12:06:28,357 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-30 12:06:33,862 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:5600, Referral: Self
+2020-07-30 12:06:34,000 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-30 12:06:35,532 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-30 12:06:35,573 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-30 12:06:35,614 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-30 12:06:36,873 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-30 12:06:37,114 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-30 12:06:40,013 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-30 12:06:41,659 - setting -INFO - Mark Patient button should present
+2020-07-30 12:06:41,740 - setting -INFO - User marked as Patient Arrived
+2020-07-30 12:06:42,443 - setting -INFO - User Skipped without Token
+2020-07-30 12:06:45,655 - setting -INFO - Send to should displayed
+2020-07-30 12:06:45,723 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-30 12:06:46,198 - setting -INFO - No of patients in queue before sending patient to doctor: 0
+2020-07-30 12:06:46,233 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 1
+2020-07-30 12:07:01,239 - setting -INFO - Doctor successfully logged into the account
+2020-07-30 12:07:01,833 - setting -INFO - Adverse Event button should present
+2020-07-30 12:07:01,876 - setting -INFO - Case Details should present
+2020-07-30 12:07:01,930 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-30 12:07:01,964 - setting -INFO - Template Details text should present
+2020-07-30 12:07:02,009 - setting -INFO - New Template button should present
+2020-07-30 12:07:02,043 - setting -INFO - Consolidated Report button should present
+2020-07-30 12:07:02,330 - setting -INFO - User Selected Optometrist Template
+2020-07-30 18:27:59,962 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-30 18:28:01,359 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-30 18:28:02,089 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-30 18:28:04,821 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-30 18:28:18,936 - setting -INFO - Doctor successfully logged into the account
+2020-07-30 18:28:19,571 - setting -INFO - Adverse Event button should present
+2020-07-30 18:28:19,604 - setting -INFO - Case Details should present
+2020-07-30 18:28:19,638 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-30 18:28:19,675 - setting -INFO - Template Details text should present
+2020-07-30 18:28:19,716 - setting -INFO - New Template button should present
+2020-07-30 18:28:19,748 - setting -INFO - Consolidated Report button should present
+2020-07-30 18:28:19,896 - setting -INFO - No of Patients in 'My Queue' :1
+2020-07-30 18:34:00,618 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-30 18:34:01,923 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-30 18:34:02,676 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-30 18:34:05,397 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-30 18:34:20,648 - setting -INFO - Doctor successfully logged into the account
+2020-07-30 18:34:21,524 - setting -INFO - Adverse Event button should present
+2020-07-30 18:34:21,561 - setting -INFO - Case Details should present
+2020-07-30 18:34:21,597 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-30 18:34:21,630 - setting -INFO - Template Details text should present
+2020-07-30 18:34:21,669 - setting -INFO - New Template button should present
+2020-07-30 18:34:21,703 - setting -INFO - Consolidated Report button should present
+2020-07-30 18:34:21,811 - setting -INFO - No of Patients in 'My Queue' :1
+2020-07-30 18:36:01,100 - setting -INFO - Doctor successfully logged into the account
+2020-07-30 18:36:01,765 - setting -INFO - Adverse Event button should present
+2020-07-30 18:36:01,806 - setting -INFO - Case Details should present
+2020-07-30 18:36:01,844 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-30 18:36:01,877 - setting -INFO - Template Details text should present
+2020-07-30 18:36:01,910 - setting -INFO - New Template button should present
+2020-07-30 18:36:01,955 - setting -INFO - Consolidated Report button should present
+2020-07-30 18:36:02,046 - setting -INFO - No of Patients in 'My Queue' :1
+2020-07-30 18:36:02,046 - setting -INFO - Doctor open recent patient
+2020-07-30 18:53:36,775 - setting -INFO - Doctor successfully logged into the account
+2020-07-30 18:53:37,408 - setting -INFO - Adverse Event button should present
+2020-07-30 18:53:37,444 - setting -INFO - Case Details should present
+2020-07-30 18:53:37,480 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-30 18:53:37,513 - setting -INFO - Template Details text should present
+2020-07-30 18:53:37,548 - setting -INFO - New Template button should present
+2020-07-30 18:53:37,580 - setting -INFO - Consolidated Report button should present
+2020-07-30 18:53:37,683 - setting -INFO - No of Patients in 'My Queue' :1
+2020-07-30 18:53:37,683 - setting -INFO - Doctor open recent patient
+2020-07-30 18:53:37,876 - setting -INFO - User Selected Optometrist Template
+2020-07-30 18:56:04,057 - setting -INFO - Doctor successfully logged into the account
+2020-07-30 18:56:04,780 - setting -INFO - Adverse Event button should present
+2020-07-30 18:56:04,812 - setting -INFO - Case Details should present
+2020-07-30 18:56:04,865 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-30 18:56:04,903 - setting -INFO - Template Details text should present
+2020-07-30 18:56:04,938 - setting -INFO - New Template button should present
+2020-07-30 18:56:04,972 - setting -INFO - Consolidated Report button should present
+2020-07-30 18:56:05,089 - setting -INFO - No of Patients in 'My Queue' :1
+2020-07-30 18:56:05,089 - setting -INFO - Doctor open recent patient
+2020-07-30 18:56:05,285 - setting -INFO - User Selected Optometrist Template
+2020-07-31 18:10:12,272 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-31 18:10:13,852 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-31 18:10:14,858 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-31 18:10:17,617 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-31 18:10:55,820 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-31 18:10:57,014 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-31 18:10:57,783 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-31 18:11:00,419 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-31 18:13:51,430 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-31 18:13:52,763 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-31 18:13:53,500 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-31 18:13:56,146 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-31 18:14:39,302 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-31 18:14:40,644 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-31 18:14:41,412 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-31 18:14:44,056 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-31 18:14:46,365 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:560037, Referral: Self
+2020-07-31 18:14:46,485 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-31 18:14:48,015 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-31 18:14:48,052 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-31 18:14:48,097 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-31 18:14:49,620 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-31 18:14:49,853 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-31 18:14:52,777 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-31 18:15:02,238 - setting -INFO - Mark Patient button should present
+2020-07-31 18:15:02,322 - setting -INFO - User marked as Patient Arrived
+2020-07-31 18:15:03,021 - setting -INFO - User Skipped without Token
+2020-07-31 18:15:04,801 - setting -INFO - Send to should displayed
+2020-07-31 18:15:04,865 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-31 18:15:05,388 - setting -INFO - No of patients in queue before sending patient to doctor: 1
+2020-07-31 18:15:05,437 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 1
+2020-07-31 18:15:17,899 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:15:18,278 - setting -INFO - Adverse Event button should present
+2020-07-31 18:15:18,385 - setting -INFO - Case Details should present
+2020-07-31 18:15:18,442 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:15:18,480 - setting -INFO - Template Details text should present
+2020-07-31 18:15:18,526 - setting -INFO - New Template button should present
+2020-07-31 18:15:18,566 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:15:18,712 - setting -INFO - No of Patients in 'My Queue' :1
+2020-07-31 18:17:31,712 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-31 18:17:33,139 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-31 18:17:33,901 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-31 18:17:36,771 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-31 18:17:38,961 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:560037, Referral: Self
+2020-07-31 18:17:39,175 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-31 18:17:40,758 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-31 18:17:40,855 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-31 18:17:40,917 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-31 18:17:42,269 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-31 18:17:42,506 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-31 18:17:45,472 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-31 18:17:46,659 - setting -INFO - Mark Patient button should present
+2020-07-31 18:17:46,758 - setting -INFO - User marked as Patient Arrived
+2020-07-31 18:17:47,470 - setting -INFO - User Skipped without Token
+2020-07-31 18:17:48,691 - setting -INFO - Send to should displayed
+2020-07-31 18:17:48,754 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-31 18:17:49,218 - setting -INFO - No of patients in queue before sending patient to doctor: 2
+2020-07-31 18:17:49,271 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 1
+2020-07-31 18:18:01,246 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:18:01,345 - setting -INFO - Adverse Event button should present
+2020-07-31 18:18:01,398 - setting -INFO - Case Details should present
+2020-07-31 18:18:01,442 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:18:01,480 - setting -INFO - Template Details text should present
+2020-07-31 18:18:01,522 - setting -INFO - New Template button should present
+2020-07-31 18:18:01,552 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:18:01,773 - setting -INFO - No of Patients in 'My Queue' :2
+2020-07-31 18:20:39,691 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:20:39,895 - setting -INFO - Adverse Event button should present
+2020-07-31 18:20:39,938 - setting -INFO - Case Details should present
+2020-07-31 18:20:39,970 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:20:40,004 - setting -INFO - Template Details text should present
+2020-07-31 18:20:40,041 - setting -INFO - New Template button should present
+2020-07-31 18:20:40,074 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:20:40,167 - setting -INFO - No of Patients in 'My Queue' :2
+2020-07-31 18:29:30,072 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:29:30,717 - setting -INFO - Adverse Event button should present
+2020-07-31 18:29:30,752 - setting -INFO - Case Details should present
+2020-07-31 18:29:30,805 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:29:30,842 - setting -INFO - Template Details text should present
+2020-07-31 18:29:30,874 - setting -INFO - New Template button should present
+2020-07-31 18:29:30,904 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:29:30,985 - setting -INFO - No of Patients in 'My Queue' :2
+2020-07-31 18:29:31,591 - setting -INFO - Doctor open recent patient
+2020-07-31 18:31:44,774 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:31:45,461 - setting -INFO - Adverse Event button should present
+2020-07-31 18:31:45,495 - setting -INFO - Case Details should present
+2020-07-31 18:31:45,527 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:31:45,558 - setting -INFO - Template Details text should present
+2020-07-31 18:31:45,593 - setting -INFO - New Template button should present
+2020-07-31 18:31:45,629 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:31:45,727 - setting -INFO - No of Patients in 'My Queue' :2
+2020-07-31 18:31:46,348 - setting -INFO - Doctor open recent patient
+2020-07-31 18:34:06,193 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:34:06,381 - setting -INFO - Adverse Event button should present
+2020-07-31 18:34:06,471 - setting -INFO - Case Details should present
+2020-07-31 18:34:06,510 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:34:06,544 - setting -INFO - Template Details text should present
+2020-07-31 18:34:06,576 - setting -INFO - New Template button should present
+2020-07-31 18:34:06,606 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:34:06,753 - setting -INFO - No of Patients in 'My Queue' :2
+2020-07-31 18:34:07,393 - setting -INFO - Doctor open recent patient
+2020-07-31 18:39:29,518 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:39:30,187 - setting -INFO - Adverse Event button should present
+2020-07-31 18:39:30,234 - setting -INFO - Case Details should present
+2020-07-31 18:39:30,276 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:39:30,315 - setting -INFO - Template Details text should present
+2020-07-31 18:39:30,358 - setting -INFO - New Template button should present
+2020-07-31 18:39:30,398 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:39:30,521 - setting -INFO - No of Patients in 'My Queue' :2
+2020-07-31 18:39:31,103 - setting -INFO - Doctor open recent patient
+2020-07-31 18:39:31,941 - setting -INFO - User Selected Optometrist Template
+2020-07-31 18:41:17,079 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-31 18:41:18,430 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-31 18:41:19,171 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-31 18:41:21,819 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-31 18:41:23,964 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:560037, Referral: Self
+2020-07-31 18:41:24,130 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-31 18:41:25,702 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-31 18:41:25,789 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-31 18:41:25,831 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-31 18:41:27,186 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-31 18:41:27,520 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-31 18:41:30,505 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-31 18:41:31,671 - setting -INFO - Mark Patient button should present
+2020-07-31 18:41:31,738 - setting -INFO - User marked as Patient Arrived
+2020-07-31 18:41:32,430 - setting -INFO - User Skipped without Token
+2020-07-31 18:41:33,609 - setting -INFO - Send to should displayed
+2020-07-31 18:41:33,698 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-31 18:41:34,110 - setting -INFO - No of patients in queue before sending patient to doctor: 3
+2020-07-31 18:41:34,183 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 1
+2020-07-31 18:41:44,894 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:41:45,536 - setting -INFO - Adverse Event button should present
+2020-07-31 18:41:45,566 - setting -INFO - Case Details should present
+2020-07-31 18:41:45,598 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:41:45,629 - setting -INFO - Template Details text should present
+2020-07-31 18:41:45,661 - setting -INFO - New Template button should present
+2020-07-31 18:41:45,693 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:41:45,769 - setting -INFO - No of Patients in 'My Queue' :3
+2020-07-31 18:41:46,387 - setting -INFO - Doctor open recent patient
+2020-07-31 18:41:47,138 - setting -INFO - User Selected Optometrist Template
+2020-07-31 18:49:03,075 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-31 18:49:04,429 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-31 18:49:05,149 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-31 18:49:07,885 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-31 18:49:10,223 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:560037, Referral: Self
+2020-07-31 18:49:10,428 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-31 18:49:12,009 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-31 18:49:12,100 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-31 18:49:12,138 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-31 18:49:13,414 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-31 18:49:13,646 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-31 18:49:16,627 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-31 18:49:17,802 - setting -INFO - Mark Patient button should present
+2020-07-31 18:49:17,871 - setting -INFO - User marked as Patient Arrived
+2020-07-31 18:49:18,618 - setting -INFO - User Skipped without Token
+2020-07-31 18:49:19,900 - setting -INFO - Send to should displayed
+2020-07-31 18:49:19,980 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-31 18:49:20,405 - setting -INFO - No of patients in queue before sending patient to doctor: 4
+2020-07-31 18:49:20,455 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 1
+2020-07-31 18:49:32,637 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:49:33,233 - setting -INFO - Adverse Event button should present
+2020-07-31 18:49:33,266 - setting -INFO - Case Details should present
+2020-07-31 18:49:33,301 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:49:33,344 - setting -INFO - Template Details text should present
+2020-07-31 18:49:33,390 - setting -INFO - New Template button should present
+2020-07-31 18:49:33,435 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:49:33,616 - setting -INFO - No of Patients in 'My Queue' :4
+2020-07-31 18:49:34,193 - setting -INFO - Doctor open recent patient
+2020-07-31 18:49:34,918 - setting -INFO - User Selected Optometrist Template
+2020-07-31 18:51:40,429 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-31 18:51:41,884 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-31 18:51:42,620 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-31 18:51:45,274 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-31 18:51:47,498 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:560037, Referral: Self
+2020-07-31 18:51:47,656 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-31 18:51:49,232 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-31 18:51:49,314 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-31 18:51:49,355 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-31 18:51:50,709 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-31 18:51:50,952 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-31 18:51:53,894 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-31 18:51:54,621 - setting -INFO - Mark Patient button should present
+2020-07-31 18:51:54,719 - setting -INFO - User marked as Patient Arrived
+2020-07-31 18:51:56,030 - setting -INFO - User Skipped without Token
+2020-07-31 18:51:57,155 - setting -INFO - Send to should displayed
+2020-07-31 18:51:57,222 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-31 18:51:57,667 - setting -INFO - No of patients in queue before sending patient to doctor: 5
+2020-07-31 18:51:57,705 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 1
+2020-07-31 18:52:09,490 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:52:10,167 - setting -INFO - Adverse Event button should present
+2020-07-31 18:52:10,200 - setting -INFO - Case Details should present
+2020-07-31 18:52:10,233 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:52:10,263 - setting -INFO - Template Details text should present
+2020-07-31 18:52:10,296 - setting -INFO - New Template button should present
+2020-07-31 18:52:10,331 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:53:19,105 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:53:19,748 - setting -INFO - Adverse Event button should present
+2020-07-31 18:53:19,792 - setting -INFO - Case Details should present
+2020-07-31 18:53:19,822 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:53:19,854 - setting -INFO - Template Details text should present
+2020-07-31 18:53:19,888 - setting -INFO - New Template button should present
+2020-07-31 18:53:19,922 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:53:20,015 - setting -INFO - No of Patients in 'My Queue' :5
+2020-07-31 18:53:20,607 - setting -INFO - Doctor open recent patient
+2020-07-31 18:53:21,360 - setting -INFO - User Selected Optometrist Template
+2020-07-31 18:56:59,549 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 18:57:00,199 - setting -INFO - Adverse Event button should present
+2020-07-31 18:57:00,237 - setting -INFO - Case Details should present
+2020-07-31 18:57:00,272 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 18:57:00,303 - setting -INFO - Template Details text should present
+2020-07-31 18:57:00,338 - setting -INFO - New Template button should present
+2020-07-31 18:57:00,375 - setting -INFO - Consolidated Report button should present
+2020-07-31 18:57:00,451 - setting -INFO - No of Patients in 'My Queue' :5
+2020-07-31 18:57:01,058 - setting -INFO - Doctor open recent patient
+2020-07-31 18:57:01,780 - setting -INFO - User Selected Optometrist Template
+2020-07-31 18:57:03,394 - setting -INFO - Opthal History comments verified
+2020-07-31 18:57:03,426 - setting -INFO - Opthal History comments verified
+2020-07-31 19:20:26,452 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-31 19:20:27,805 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-31 19:20:28,540 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-31 19:20:31,208 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-31 19:20:33,350 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:560037, Referral: Self
+2020-07-31 19:20:33,544 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-31 19:20:35,106 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-31 19:20:35,194 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-31 19:20:35,241 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-31 19:20:36,547 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-31 19:20:36,793 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-31 19:20:39,802 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-31 19:20:41,071 - setting -INFO - Mark Patient button should present
+2020-07-31 19:20:41,149 - setting -INFO - User marked as Patient Arrived
+2020-07-31 19:20:41,889 - setting -INFO - User Skipped without Token
+2020-07-31 19:20:43,017 - setting -INFO - Send to should displayed
+2020-07-31 19:20:43,078 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-31 19:20:43,512 - setting -INFO - No of patients in queue before sending patient to doctor: 6
+2020-07-31 19:20:43,561 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 1
+2020-07-31 19:20:54,374 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 19:20:54,973 - setting -INFO - Adverse Event button should present
+2020-07-31 19:20:55,009 - setting -INFO - Case Details should present
+2020-07-31 19:20:55,045 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 19:20:55,078 - setting -INFO - Template Details text should present
+2020-07-31 19:20:55,125 - setting -INFO - New Template button should present
+2020-07-31 19:20:55,176 - setting -INFO - Consolidated Report button should present
+2020-07-31 19:20:55,314 - setting -INFO - No of Patients in 'My Queue' :6
+2020-07-31 19:20:55,899 - setting -INFO - Doctor open recent patient
+2020-07-31 19:20:56,650 - setting -INFO - User Selected Optometrist Template
+2020-07-31 19:20:58,393 - setting -INFO - Refraction tab selected
+2020-07-31 19:20:58,713 - setting -INFO - fill button clicked
+2020-07-31 19:37:30,932 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-07-31 19:37:32,358 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-07-31 19:37:33,092 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-07-31 19:37:35,755 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-07-31 19:37:37,835 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:560037, Referral: Self
+2020-07-31 19:37:38,006 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-07-31 19:37:39,577 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-07-31 19:37:39,654 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-07-31 19:37:39,691 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-07-31 19:37:41,111 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-07-31 19:37:41,332 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-07-31 19:37:44,334 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-07-31 19:37:45,501 - setting -INFO - Mark Patient button should present
+2020-07-31 19:37:45,596 - setting -INFO - User marked as Patient Arrived
+2020-07-31 19:37:46,302 - setting -INFO - User Skipped without Token
+2020-07-31 19:37:47,433 - setting -INFO - Send to should displayed
+2020-07-31 19:37:47,495 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-07-31 19:37:47,930 - setting -INFO - No of patients in queue before sending patient to doctor: 7
+2020-07-31 19:37:47,987 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 1
+2020-07-31 19:37:59,660 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 19:38:00,449 - setting -INFO - Adverse Event button should present
+2020-07-31 19:38:00,482 - setting -INFO - Case Details should present
+2020-07-31 19:38:00,514 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 19:38:00,544 - setting -INFO - Template Details text should present
+2020-07-31 19:38:00,578 - setting -INFO - New Template button should present
+2020-07-31 19:38:00,611 - setting -INFO - Consolidated Report button should present
+2020-07-31 19:38:00,709 - setting -INFO - No of Patients in 'My Queue' :7
+2020-07-31 19:38:01,410 - setting -INFO - Doctor open recent patient
+2020-07-31 19:38:02,147 - setting -INFO - User Selected Optometrist Template
+2020-07-31 19:38:04,540 - setting -INFO - Refraction tab selected
+2020-07-31 19:38:04,882 - setting -INFO - fill button clicked
+2020-07-31 19:50:14,576 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 19:50:15,250 - setting -INFO - Adverse Event button should present
+2020-07-31 19:50:15,285 - setting -INFO - Case Details should present
+2020-07-31 19:50:15,315 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 19:50:15,348 - setting -INFO - Template Details text should present
+2020-07-31 19:50:15,387 - setting -INFO - New Template button should present
+2020-07-31 19:50:15,424 - setting -INFO - Consolidated Report button should present
+2020-07-31 19:50:15,532 - setting -INFO - No of Patients in 'My Queue' :7
+2020-07-31 19:50:16,125 - setting -INFO - Doctor open recent patient
+2020-07-31 19:50:16,827 - setting -INFO - User Selected Optometrist Template
+2020-07-31 19:50:18,545 - setting -INFO - Refraction tab selected
+2020-07-31 19:50:18,875 - setting -INFO - fill button clicked
+2020-07-31 19:56:47,581 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 19:56:47,781 - setting -INFO - Adverse Event button should present
+2020-07-31 19:56:47,829 - setting -INFO - Case Details should present
+2020-07-31 19:56:47,871 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 19:56:48,070 - setting -INFO - Template Details text should present
+2020-07-31 19:56:48,107 - setting -INFO - New Template button should present
+2020-07-31 19:56:48,138 - setting -INFO - Consolidated Report button should present
+2020-07-31 19:56:48,220 - setting -INFO - No of Patients in 'My Queue' :7
+2020-07-31 19:56:48,855 - setting -INFO - Doctor open recent patient
+2020-07-31 19:56:49,597 - setting -INFO - User Selected Optometrist Template
+2020-07-31 19:56:51,378 - setting -INFO - Refraction tab selected
+2020-07-31 19:56:51,665 - setting -INFO - fill button clicked
+2020-07-31 20:00:37,038 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 20:00:37,175 - setting -INFO - Adverse Event button should present
+2020-07-31 20:00:37,212 - setting -INFO - Case Details should present
+2020-07-31 20:00:37,307 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 20:00:37,387 - setting -INFO - Template Details text should present
+2020-07-31 20:00:37,437 - setting -INFO - New Template button should present
+2020-07-31 20:00:37,471 - setting -INFO - Consolidated Report button should present
+2020-07-31 20:00:37,550 - setting -INFO - No of Patients in 'My Queue' :7
+2020-07-31 20:00:38,191 - setting -INFO - Doctor open recent patient
+2020-07-31 20:00:38,905 - setting -INFO - User Selected Optometrist Template
+2020-07-31 20:00:40,660 - setting -INFO - Refraction tab selected
+2020-07-31 20:00:40,954 - setting -INFO - fill button clicked
+2020-07-31 20:04:56,603 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 20:04:56,771 - setting -INFO - Adverse Event button should present
+2020-07-31 20:04:56,832 - setting -INFO - Case Details should present
+2020-07-31 20:04:56,927 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 20:04:56,969 - setting -INFO - Template Details text should present
+2020-07-31 20:04:57,004 - setting -INFO - New Template button should present
+2020-07-31 20:04:57,044 - setting -INFO - Consolidated Report button should present
+2020-07-31 20:04:57,136 - setting -INFO - No of Patients in 'My Queue' :7
+2020-07-31 20:04:57,734 - setting -INFO - Doctor open recent patient
+2020-07-31 20:04:58,454 - setting -INFO - User Selected Optometrist Template
+2020-07-31 20:05:00,253 - setting -INFO - Refraction tab selected
+2020-07-31 20:05:00,542 - setting -INFO - fill button clicked
+2020-07-31 20:18:54,967 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 20:18:55,704 - setting -INFO - Adverse Event button should present
+2020-07-31 20:18:55,739 - setting -INFO - Case Details should present
+2020-07-31 20:18:55,776 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 20:18:55,809 - setting -INFO - Template Details text should present
+2020-07-31 20:18:55,846 - setting -INFO - New Template button should present
+2020-07-31 20:18:55,877 - setting -INFO - Consolidated Report button should present
+2020-07-31 20:18:55,996 - setting -INFO - No of Patients in 'My Queue' :7
+2020-07-31 20:18:56,579 - setting -INFO - Doctor open recent patient
+2020-07-31 20:18:57,302 - setting -INFO - User Selected Optometrist Template
+2020-07-31 20:18:59,708 - setting -INFO - Refraction tab selected
+2020-07-31 20:18:59,988 - setting -INFO - fill button clicked
+2020-07-31 20:20:22,747 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 20:20:23,058 - setting -INFO - Adverse Event button should present
+2020-07-31 20:20:23,140 - setting -INFO - Case Details should present
+2020-07-31 20:20:23,182 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 20:20:23,215 - setting -INFO - Template Details text should present
+2020-07-31 20:20:23,248 - setting -INFO - New Template button should present
+2020-07-31 20:20:23,282 - setting -INFO - Consolidated Report button should present
+2020-07-31 20:20:23,379 - setting -INFO - No of Patients in 'My Queue' :7
+2020-07-31 20:20:23,989 - setting -INFO - Doctor open recent patient
+2020-07-31 20:20:24,708 - setting -INFO - User Selected Optometrist Template
+2020-07-31 20:20:26,715 - setting -INFO - Refraction tab selected
+2020-07-31 20:20:27,007 - setting -INFO - fill button clicked
+2020-07-31 20:23:45,060 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 20:23:45,696 - setting -INFO - Adverse Event button should present
+2020-07-31 20:23:45,735 - setting -INFO - Case Details should present
+2020-07-31 20:23:45,791 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 20:23:45,829 - setting -INFO - Template Details text should present
+2020-07-31 20:23:45,861 - setting -INFO - New Template button should present
+2020-07-31 20:23:45,911 - setting -INFO - Consolidated Report button should present
+2020-07-31 20:23:45,995 - setting -INFO - No of Patients in 'My Queue' :7
+2020-07-31 20:23:46,601 - setting -INFO - Doctor open recent patient
+2020-07-31 20:23:47,321 - setting -INFO - User Selected Optometrist Template
+2020-07-31 20:23:49,318 - setting -INFO - Refraction tab selected
+2020-07-31 20:23:49,641 - setting -INFO - fill button clicked
+2020-07-31 20:26:54,541 - setting -INFO - Doctor successfully logged into the account
+2020-07-31 20:26:54,820 - setting -INFO - Adverse Event button should present
+2020-07-31 20:26:54,894 - setting -INFO - Case Details should present
+2020-07-31 20:26:54,934 - setting -INFO - Counsellor Note or Admission text should present
+2020-07-31 20:26:55,025 - setting -INFO - Template Details text should present
+2020-07-31 20:26:55,070 - setting -INFO - New Template button should present
+2020-07-31 20:26:55,114 - setting -INFO - Consolidated Report button should present
+2020-07-31 20:26:55,243 - setting -INFO - No of Patients in 'My Queue' :7
+2020-07-31 20:26:55,827 - setting -INFO - Doctor open recent patient
+2020-07-31 20:26:56,547 - setting -INFO - User Selected Optometrist Template
+2020-07-31 20:26:58,629 - setting -INFO - Refraction tab selected
+2020-07-31 20:26:58,976 - setting -INFO - fill button clicked
+2020-08-03 12:06:24,098 - setting -INFO - Doctor successfully logged into the account
+2020-08-03 12:25:04,615 - setting -INFO - Doctor successfully logged into the account
+2020-08-03 12:26:18,073 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-08-03 12:26:19,755 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-08-03 12:26:20,540 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-08-03 12:26:23,714 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-08-03 12:26:26,054 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:560037, Referral: Self
+2020-08-03 12:26:26,214 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-08-03 12:26:27,768 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-08-03 12:26:27,816 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-08-03 12:26:27,870 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-08-03 12:26:29,233 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-08-03 12:26:29,509 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-08-03 12:26:31,919 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-08-03 12:26:34,102 - setting -INFO - Mark Patient button should present
+2020-08-03 12:26:34,188 - setting -INFO - User marked as Patient Arrived
+2020-08-03 12:26:34,850 - setting -INFO - User Skipped without Token
+2020-08-03 12:26:37,098 - setting -INFO - Send to should displayed
+2020-08-03 12:26:37,161 - setting -INFO - After Patient Arrived Mark as Completed button shpould display
+2020-08-03 12:26:37,609 - setting -INFO - No of patients in queue before sending patient to doctor: 0
+2020-08-03 12:26:37,645 - setting -INFO - No of patients in Receptionist queue before sending patient to doctor: 1
+2020-08-03 12:26:48,678 - setting -INFO - Doctor successfully logged into the account
+2020-08-03 12:26:49,795 - setting -INFO - Adverse Event button should present
+2020-08-03 12:26:49,844 - setting -INFO - Case Details should present
+2020-08-03 12:26:49,878 - setting -INFO - Counsellor Note or Admission text should present
+2020-08-03 12:26:49,914 - setting -INFO - Template Details text should present
+2020-08-03 12:26:49,954 - setting -INFO - New Template button should present
+2020-08-03 12:26:49,985 - setting -INFO - Consolidated Report button should present
+2020-08-03 12:26:50,109 - setting -INFO - No of Patients in 'My Queue' :1
+2020-08-03 12:26:50,714 - setting -INFO - Doctor open recent patient
+2020-08-03 12:26:51,439 - setting -INFO - User Selected Optometrist Template
+2020-08-03 12:26:55,205 - setting -INFO - Refraction tab selected
+2020-08-03 12:26:55,660 - setting -INFO - fill button clicked
+2020-08-03 15:43:03,596 - CommonSteps -INFO - Successfully Entered Receptionist Username and Password
+2020-08-03 15:43:05,170 - CommonSteps -INFO - Logged in Successfully as a Receptionist
+2020-08-03 15:43:05,909 - CommonSteps -INFO - Receptionist clicked on Add button
+2020-08-03 15:43:08,710 - CommonSteps -INFO - Receptionist clicked on Add New Patient button
+2020-08-03 15:43:10,901 - CommonSteps -INFO - Receptionist filled Patient Details, FirstName : Biswajit, MobNo:9861929608, LastName :Tripathy, Email:bswjttripathy@gmail.com,Language:Hindi, Pincode:560037, Referral: Self
+2020-08-03 15:43:11,063 - CommonSteps -INFO - Receptionist clicked on Other Details tab
+2020-08-03 15:43:12,699 - CommonSteps -INFO - Receptionist select as One Eyed
+2020-08-03 15:43:12,776 - CommonSteps -INFO - Receptionist select Special status as Breastfeeding
+2020-08-03 15:43:12,812 - CommonSteps -INFO - Receptionist clicked on History tab
+2020-08-03 15:43:14,012 - CommonSteps -INFO - Receptionist successfully entered Medical History comments
+2020-08-03 15:43:14,244 - CommonSteps -INFO - Receptionist successfully entered Family History comments
+2020-08-03 15:43:17,320 - CommonSteps -INFO - Receptionist successfully created one appointment by entering all History & Allegy detials
+2020-08-03 15:43:19,666 - setting -INFO - Mark Patient button should present
+2020-08-03 15:43:19,740 - setting -INFO - User marked as Patient Arrived
+2020-08-03 15:44:19,046 - setting -INFO - Doctor successfully logged into the account
+2020-08-03 15:44:19,197 - setting -INFO - Adverse Event button should present
+2020-08-03 15:44:19,245 - setting -INFO - Case Details should present
+2020-08-03 15:44:19,296 - setting -INFO - Counsellor Note or Admission text should present
+2020-08-03 15:44:19,374 - setting -INFO - Template Details text should present
+2020-08-03 15:44:19,422 - setting -INFO - New Template button should present
+2020-08-03 15:44:19,456 - setting -INFO - Consolidated Report button should present
+2020-08-03 15:44:19,555 - setting -INFO - No of Patients in 'My Queue' :1
+2020-08-03 15:44:20,141 - setting -INFO - Doctor open recent patient
+2020-08-03 15:44:20,864 - setting -INFO - User Selected Optometrist Template
+2020-08-03 15:44:23,394 - setting -INFO - Refraction tab selected
+2020-08-03 15:44:23,627 - setting -INFO - fill button clicked
+2020-08-03 15:44:27,001 - setting -INFO - Doctor successfully filled all Auto Refraction values
+2020-08-03 15:44:27,128 - setting -INFO - fill button clicked
+2020-08-03 16:30:56,987 - setting -INFO - Doctor successfully logged into the account
+2020-08-03 16:30:57,195 - setting -INFO - Adverse Event button should present
+2020-08-03 16:30:57,234 - setting -INFO - Case Details should present
+2020-08-03 16:30:57,274 - setting -INFO - Counsellor Note or Admission text should present
+2020-08-03 16:30:57,309 - setting -INFO - Template Details text should present
+2020-08-03 16:30:57,355 - setting -INFO - New Template button should present
+2020-08-03 16:30:57,390 - setting -INFO - Consolidated Report button should present
+2020-08-03 16:30:57,525 - setting -INFO - No of Patients in 'My Queue' :1
+2020-08-03 16:30:58,131 - setting -INFO - Doctor open recent patient
+2020-08-03 16:30:58,819 - setting -INFO - User Selected Optometrist Template
+2020-08-03 16:31:01,028 - setting -INFO - Refraction tab selected
+2020-08-03 16:31:01,281 - setting -INFO - fill button clicked
+2020-08-03 16:31:04,777 - setting -INFO - Doctor successfully filled all Auto Refraction values
+2020-08-03 16:31:04,900 - setting -INFO - fill button clicked

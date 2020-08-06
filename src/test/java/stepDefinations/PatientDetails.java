@@ -36,14 +36,14 @@ public class PatientDetails extends CommonSteps
 	public void user_fills_and(String uname, String pswd) throws Throwable {
 		lp.fillusername(uname);
 		lp.fillpassword(pswd);
-		logger.info("*****Successfully Entered Username and Password******");
+		logger.info("Successfully Entered Username and Password");
 	}
 
 	@When("^clicks on Login$")
 	public void clicks_on_Login() throws Throwable 
 	{
 		lp.clickloginbtn();
-		logger.info("*****Logged in Successfully******");
+		logger.info("Logged in Successfully through Doctor Account");
 		
 	}
 
@@ -51,7 +51,7 @@ public class PatientDetails extends CommonSteps
 	public void user_can_view_dashboard() throws Throwable 
 	{
 		Assert.assertEquals("Foss - EHR", lp.getPageTitle());
-		logger.info("*****User landed on OPD Home Page******");
+		logger.info("User landed on OPD Home Page");
 	}
 
 	//Add New Patients------------------------------------------------------------------------------------------------------------------
@@ -59,7 +59,7 @@ public class PatientDetails extends CommonSteps
 	public void click_on_Add_button() throws Throwable {
 		commonMethods.expwait("//*[@class='glyphicon glyphicon-plus']");
 		addpd.clickAdd_btn();
-		logger.info("*****click on Add button******");
+		logger.info("Click on Add button");
 		commonMethods.normalWait(3000);
 	}
 
@@ -89,7 +89,7 @@ public class PatientDetails extends CommonSteps
 	{
 		commonMethods.waitTillClick("//*[text()='Add New Patient']");
 		addpd.click_Add_New_Patient_btn();
-		logger.info("*****click on Add New Patient button******");
+		logger.info("Click on Add New Patient button");
 	}
 
 	@Then("^Modal must have below mentioned tabs$")

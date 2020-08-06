@@ -876,20 +876,6 @@ public class setting extends CommonSteps{
 			logger.info("User Skipped without Token");
 			commonMethods.expwait("//*[text()='Template Details']");
 			driver.findElement(By.xpath("//button[@id='opd-templates']")).click();
-			/*List<WebElement> template=driver.findElements(By.xpath("//*[@aria-labelledby='opd-templates-dropdown']/..//li"));
-			for(int i=0;i<template.size();i++)
-			{
-				commonMethods.logger.info("List of Template Details under 'New' button :"+ template.get(i).getText());
-				
-					if(template.contains("Eye")) {
-						template.get(i).click();
-						commonMethods.logger.info("User Selected Eye Template in if block");
-					}
-			else
-				{
-					commonMethods.logger.info("User not Selected Eye Template");
-				}		*/
-			
 			driver.findElement(By.xpath("//a[@data_templatetype='eye']")).click();
 			commonMethods.logger.info("User Selected Eye Template");
 			commonMethods.expwait("//li[@id='assesment_step']");

@@ -28,7 +28,7 @@ public class CommonSteps
 		//opdverify = new OPDverify(driver, commonMethods);
 		PropertyConfigurator.configure("Log4j.properties");
 	}
-	public  void fillpatientDetails (String uname, String pswd,String Firstname, String Mobno, String Lastname, String Email, String language, String Pincode, String Ref,String HistoryComment, String GlaucomaHistory,String Penicillincomments) throws Exception
+	public  void fillpatientDetails (String uname, String pswd,String Firstname, String Mobno, String Lastname, String Email, String language, String Pincode, String Ref,String Comment1, String Comment2,String Comment3,String Comment4,String Comment5,String Comment6) throws Exception
 	{	
 		lp.fillusername(uname);
 		lp.fillpassword(pswd);
@@ -48,7 +48,7 @@ public class CommonSteps
 		addpd.fillLastNAme(Lastname);
 		addpd.fillEmail(Email);
 		addpd.fillPrimaryLanguage(language);
-		addpd.fillPincode(Pincode);
+		//addpd.fillPincode(Pincode);
 		addpd.fillpatientref(Ref);
 		driver.findElement(By.xpath("//input[@name='patient[dob]']")).click();
 		driver.findElement(By.xpath("//*[@class='ui-datepicker-prev ui-corner-all']")).click();
@@ -66,13 +66,19 @@ public class CommonSteps
 		addpd.clickHistory();
 		logger.info("Receptionist clicked on History tab");
 		driver.findElement(By.xpath("(//*[text()='Glaucoma'])[1]")).click();
-		driver.findElement(By.xpath("//*[@placeholder='Comment...']")).sendKeys("HistoryComment");
-		driver.findElement(By.xpath("//input[@id='patient_opthal_history_comment']")).sendKeys("GlaucomaHistory");
+		driver.findElement(By.xpath("//*[@placeholder='Comment...']")).sendKeys(Comment1);
+		driver.findElement(By.xpath("//input[@id='patient_opthal_history_comment']")).sendKeys(Comment2);
+		driver.findElement(By.xpath("//input[@id='patient_history_comment']")).sendKeys(Comment3);
+		driver.findElement(By.xpath("//input[@id='patient_other_history_attributes_medical_history']")).sendKeys(Comment4);
+		logger.info("Receptionist successfully entered Medical History comments");
+		driver.findElement(By.xpath("//input[@id='patient_other_history_attributes_family_history']")).sendKeys(Comment5);
+		logger.info("Receptionist successfully entered Family History comments");
 		driver.findElement(By.xpath("//*[text()='Allergies']")).click();
 		commonMethods.normalWait(1000);
 		driver.findElement(By.xpath("//*[text()='Antimicrobial Agents']")).click();
 		commonMethods.expwait("//button[text()='Ampicillin']");
 		driver.findElement(By.xpath("//*[text()='Ampicillin']")).click();
+		driver.findElement(By.xpath("//input[@id='opdrecord_others_allergies']")).sendKeys(Comment6);
 		addpd.clickappointmentbtn();		
 		logger.info("Receptionist successfully created one appointment by entering all History & Allegy detials"); 	
 	}
